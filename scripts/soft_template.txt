@@ -1,0 +1,5 @@
+For the following query, {"placeholder":"text_b"} are spans that represent intents of the user, query: {"placeholder":"text_a"}. intents: {"mask"} .
+For the following query, {"placeholder":"text_b"} is the segment that indicates the user's intent. So, for the query {"placeholder":"text_a"}, what is its intent? {"mask"} .
+For the query {"placeholder":"text_a"}, what is its intent? {"mask"} .
+query: {"placeholder":"text_a"}, intent: {"mask"} .
+query: {"placeholder":"text_a"}. spans: {"placeholder":"text_b"}. intents: {"mask"}.

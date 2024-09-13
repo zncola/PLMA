@@ -1,0 +1,1764 @@
+[
+    {
+        "affirm": [
+            "affirm"
+        ],
+        "deny": [
+            "deny"
+        ],
+        "dont_know": [
+            "dont_know"
+        ],
+        "acknowledge": [
+            "acknowledge"
+        ],
+        "greet": [
+            "greet"
+        ],
+        "end_call": [
+            "end_call"
+        ],
+        "handoff": [
+            "handoff"
+        ],
+        "thank": [
+            "thank"
+        ],
+        "repeat": [
+            "repeat"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze"
+        ],
+        "change": [
+            "change"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate"
+        ],
+        "request_info": [
+            "request_info"
+        ],
+        "how": [
+            "how"
+        ],
+        "why": [
+            "why"
+        ],
+        "when": [
+            "when"
+        ],
+        "how_much": [
+            "how much"
+        ],
+        "how_long": [
+            "how long"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing"
+        ],
+        "lost_stolen": [
+            "lost_stolen"
+        ],
+        "more_higher_after": [
+            "more_higher_after"
+        ],
+        "less_lower_before": [
+            "less_lower_before"
+        ],
+        "new": [
+            "new"
+        ],
+        "existing": [
+            "existing"
+        ],
+        "limits": [
+            "limits"
+        ]
+    },
+    {
+        "affirm": [
+            "the intent to affirm something"
+        ],
+        "deny": [
+            "the intent to deny something"
+        ],
+        "dont_know": [
+            "the intent to say I don't know"
+        ],
+        "acknowledge": [
+            "the intent to acknowledge what was said"
+        ],
+        "greet": [
+            "the intent to greet someone"
+        ],
+        "end_call": [
+            "the intent to end call or say goodbye"
+        ],
+        "handoff": [
+            "the intent to speak to a human or hand off"
+        ],
+        "thank": [
+            "the intent to thank someone"
+        ],
+        "repeat": [
+            "the intent asking to repeat the previous sentence"
+        ],
+        "cancel_close_leave_freeze": [
+            "the intent asking about canceling or closing something"
+        ],
+        "change": [
+            "the intent to change or modify something"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "the intent to make, open, apply, set up or activate something"
+        ],
+        "request_info": [
+            "the intent to ask or request some information"
+        ],
+        "how": [
+            "the intent asking how to do something"
+        ],
+        "why": [
+            "the intent to ask why something happened or needs to be done"
+        ],
+        "when": [
+            "the intent to ask about when or what time something happens"
+        ],
+        "how_much": [
+            "the intent asking about some quantity or how much"
+        ],
+        "how_long": [
+            "the intent asking about how long something takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "the intent asking about something wrong, missing or not working"
+        ],
+        "lost_stolen": [
+            "the intent asking about something being lost or stolen"
+        ],
+        "more_higher_after": [
+            "the intent to indicate something more, higher, after or increasing"
+        ],
+        "less_lower_before": [
+            "the intent to indicate something less, lower, before or decreasing"
+        ],
+        "new": [
+            "the intent asking about something new"
+        ],
+        "existing": [
+            "the intent asking about something that already exists"
+        ],
+        "limits": [
+            "the intent asking about some sort of limit"
+        ]
+    },
+    {
+        "affirm": [
+            "to affirm something"
+        ],
+        "deny": [
+            "to deny something"
+        ],
+        "dont_know": [
+            "to say I don't know"
+        ],
+        "acknowledge": [
+            "to acknowledge what was said"
+        ],
+        "greet": [
+            "to greet someone"
+        ],
+        "end_call": [
+            "to end call or say goodbye"
+        ],
+        "handoff": [
+            "to speak to a human or hand off"
+        ],
+        "thank": [
+            "to thank someone"
+        ],
+        "repeat": [
+            "asking to repeat the previous sentence"
+        ],
+        "cancel_close_leave_freeze": [
+            "asking about canceling or closing something"
+        ],
+        "change": [
+            "to change or modify something"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "to make, open, apply, set up or activate something"
+        ],
+        "request_info": [
+            "to ask or request some information"
+        ],
+        "how": [
+            "asking how to do something"
+        ],
+        "why": [
+            "to ask why something happened or needs to be done"
+        ],
+        "when": [
+            "to ask about when or what time something happens"
+        ],
+        "how_much": [
+            "asking about some quantity or how much"
+        ],
+        "how_long": [
+            "asking about how long something takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "asking about something wrong, missing or not working"
+        ],
+        "lost_stolen": [
+            "asking about something being lost or stolen"
+        ],
+        "more_higher_after": [
+            "to indicate something more, higher, after or increasing"
+        ],
+        "less_lower_before": [
+            "to indicate something less, lower, before or decreasing"
+        ],
+        "new": [
+            "asking about something new"
+        ],
+        "existing": [
+            "asking about something that already exists"
+        ],
+        "limits": [
+            "asking about some sort of limit"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "to affirm something"
+        ],
+        "deny": [
+            "deny",
+            "to deny something"
+        ],
+        "dont_know": [
+            "dont_know",
+            "to say I don't know"
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "to acknowledge what was said"
+        ],
+        "greet": [
+            "greet",
+            "to greet someone"
+        ],
+        "end_call": [
+            "end_call",
+            "to end call or say goodbye"
+        ],
+        "handoff": [
+            "handoff",
+            "to speak to a human or hand off"
+        ],
+        "thank": [
+            "thank",
+            "to thank someone"
+        ],
+        "repeat": [
+            "repeat",
+            "asking to repeat the previous sentence"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "asking about canceling or closing something"
+        ],
+        "change": [
+            "change",
+            "to change or modify something"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "to make, open, apply, set up or activate something"
+        ],
+        "request_info": [
+            "request_info",
+            "to ask or request some information"
+        ],
+        "how": [
+            "how",
+            "asking how to do something"
+        ],
+        "why": [
+            "why",
+            "to ask why something happened or needs to be done"
+        ],
+        "when": [
+            "when",
+            "to ask about when or what time something happens"
+        ],
+        "how_much": [
+            "how_much",
+            "asking about some quantity or how much"
+        ],
+        "how_long": [
+            "how_long",
+            "asking about how long something takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "asking about something wrong, missing or not working"
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "asking about something being lost or stolen"
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "to indicate something more, higher, after or increasing"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "to indicate something less, lower, before or decreasing"
+        ],
+        "new": [
+            "new",
+            "asking about something new"
+        ],
+        "existing": [
+            "existing",
+            "asking about something that already exists"
+        ],
+        "limits": [
+            "limits",
+            "asking about some sort of limit"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "Yes, I agree with the terms."
+        ],
+        "deny": [
+            "deny",
+            "No, I don't want that service."
+        ],
+        "dont_know": [
+            "dont_know",
+            "I'm not sure about that."
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "I understand, thank you."
+        ],
+        "greet": [
+            "greet",
+            "Hello, how can I help you?"
+        ],
+        "end_call": [
+            "end_call",
+            "Goodbye, thank you for your help."
+        ],
+        "handoff": [
+            "handoff",
+            "I need to speak to a manager."
+        ],
+        "thank": [
+            "thank",
+            "Thank you for your assistance."
+        ],
+        "repeat": [
+            "repeat",
+            "Can you repeat that, please?"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "I'd like to cancel my account."
+        ],
+        "change": [
+            "change",
+            "I need to change my address."
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "I want to open a new account."
+        ],
+        "request_info": [
+            "request_info",
+            "Can you provide more information on that?"
+        ],
+        "how": [
+            "how",
+            "How does this service work?"
+        ],
+        "why": [
+            "why",
+            "Why was my transaction declined?"
+        ],
+        "when": [
+            "when",
+            "When will my account be activated?"
+        ],
+        "how_much": [
+            "how_much",
+            "How much is the fee for this service?"
+        ],
+        "how_long": [
+            "how_long",
+            "How long will the process take?"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "This feature is not working properly."
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "I've lost my card."
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "Can I get a higher credit limit?"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "Can I set a lower withdrawal limit?"
+        ],
+        "new": [
+            "new",
+            "I'd like to open a new account."
+        ],
+        "existing": [
+            "existing",
+            "I have an existing account."
+        ],
+        "limits": [
+            "limits",
+            "What are the limits on this account?"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "confirm",
+            "agree",
+            "approve"
+        ],
+        "deny": [
+            "deny",
+            "reject",
+            "refuse",
+            "disagree"
+        ],
+        "dont_know": [
+            "dont_know",
+            "unsure",
+            "uncertain",
+            "not_sure"
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "recognize",
+            "accept",
+            "admit"
+        ],
+        "greet": [
+            "greet",
+            "hello",
+            "hi",
+            "welcome"
+        ],
+        "end_call": [
+            "end_call",
+            "terminate_call",
+            "hang_up",
+            "finish_call"
+        ],
+        "handoff": [
+            "handoff",
+            "transfer",
+            "pass_on",
+            "delegate"
+        ],
+        "thank": [
+            "thank",
+            "thanks",
+            "appreciate",
+            "gratitude"
+        ],
+        "repeat": [
+            "repeat",
+            "reiterate",
+            "say_again",
+            "go_over"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "terminate",
+            "abort"
+        ],
+        "change": [
+            "change",
+            "modify",
+            "alter",
+            "update"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "create",
+            "initialize"
+        ],
+        "request_info": [
+            "request_info",
+            "ask_information",
+            "inquire",
+            "seek_details"
+        ],
+        "how": [
+            "how",
+            "in_what_way",
+            "by_what_means",
+            "method"
+        ],
+        "why": [
+            "why",
+            "for_what_reason",
+            "purpose",
+            "cause"
+        ],
+        "when": [
+            "when",
+            "at_what_time",
+            "date",
+            "time"
+        ],
+        "how_much": [
+            "how_much",
+            "amount",
+            "quantity",
+            "cost"
+        ],
+        "how_long": [
+            "how_long",
+            "duration",
+            "length",
+            "time_span"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong",
+            "not_working",
+            "not_showing",
+            "broken",
+            "malfunctioning"
+        ],
+        "lost_stolen": [
+            "lost",
+            "stolen",
+            "misplaced",
+            "missing"
+        ],
+        "more_higher_after": [
+            "more",
+            "higher",
+            "after",
+            "greater",
+            "increase"
+        ],
+        "less_lower_before": [
+            "less",
+            "lower",
+            "before",
+            "decrease",
+            "reduced"
+        ],
+        "new": [
+            "new",
+            "fresh",
+            "recent",
+            "latest"
+        ],
+        "existing": [
+            "existing",
+            "current",
+            "present",
+            "ongoing"
+        ],
+        "limits": [
+            "limits",
+            "restrictions",
+            "boundaries",
+            "constraints"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "confirm",
+            "agree"
+        ],
+        "deny": [
+            "deny",
+            "reject",
+            "refuse"
+        ],
+        "dont_know": [
+            "dont_know",
+            "uncertain",
+            "unsure"
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "recognize",
+            "admit"
+        ],
+        "greet": [
+            "greet",
+            "salute",
+            "welcome"
+        ],
+        "end_call": [
+            "end_call",
+            "hang up",
+            "terminate call"
+        ],
+        "handoff": [
+            "handoff",
+            "transfer",
+            "pass along"
+        ],
+        "thank": [
+            "thank",
+            "express gratitude",
+            "appreciate"
+        ],
+        "repeat": [
+            "repeat",
+            "reiterate",
+            "say again"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "abort",
+            "discontinue"
+        ],
+        "change": [
+            "change",
+            "modify",
+            "alter"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "create",
+            "initialize"
+        ],
+        "request_info": [
+            "request_info",
+            "ask for details",
+            "inquire"
+        ],
+        "how": [
+            "how",
+            "in what way",
+            "by what means"
+        ],
+        "why": [
+            "why",
+            "for what reason",
+            "what's the purpose"
+        ],
+        "when": [
+            "when",
+            "at what time",
+            "on what date"
+        ],
+        "how_much": [
+            "how_much",
+            "what amount",
+            "how many"
+        ],
+        "how_long": [
+            "how_long",
+            "duration",
+            "time span"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "malfunction",
+            "error"
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "missing",
+            "taken"
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "increase",
+            "greater than"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "decrease",
+            "less than"
+        ],
+        "new": [
+            "new",
+            "brand new",
+            "recently created"
+        ],
+        "existing": [
+            "existing",
+            "already in place",
+            "currently active"
+        ],
+        "limits": [
+            "limits",
+            "boundaries",
+            "restrictions"
+        ]
+    },
+    {
+        "affirm": [
+            "Yes, that's correct.",
+            "Exactly what I meant.",
+            "Absolutely, I agree with that."
+        ],
+        "deny": [
+            "No, that's not what I meant.",
+            "I don't think so.",
+            "No, that's incorrect."
+        ],
+        "dont_know": [
+            "I'm not sure about that.",
+            "I don't know the answer.",
+            "I have no idea."
+        ],
+        "acknowledge": [
+            "I understand.",
+            "Got it, thanks.",
+            "Noted."
+        ],
+        "greet": [
+            "Hello!",
+            "Good morning.",
+            "Hi there!"
+        ],
+        "end_call": [
+            "Thank you, goodbye.",
+            "I think that's all, bye.",
+            "Thanks, I'm done for now."
+        ],
+        "handoff": [
+            "Can you transfer me to an agent?",
+            "Please connect me with a human representative.",
+            "Can you pass me to someone else?"
+        ],
+        "thank": [
+            "Thank you so much!",
+            "I appreciate your help.",
+            "Thanks a lot!"
+        ],
+        "repeat": [
+            "Could you say that again?",
+            "Can you repeat what you just said?",
+            "I didn't catch that, can you repeat?"
+        ],
+        "cancel_close_leave_freeze": [
+            "I want to cancel my booking.",
+            "Please close my account.",
+            "I need to freeze my card."
+        ],
+        "change": [
+            "I need to change my reservation.",
+            "Can I change my PIN?",
+            "I'd like to update my contact information."
+        ],
+        "make_open_apply_setup_get_activate": [
+            "I want to open a new account.",
+            "Can you help me set up online banking?",
+            "I need to activate my card."
+        ],
+        "request_info": [
+            "Can you give me more details about this?",
+            "I need some information on your services.",
+            "Could you provide more info about that?"
+        ],
+        "how": [
+            "How can I book a room?",
+            "How do I apply for a loan?",
+            "How do I check my balance?"
+        ],
+        "why": [
+            "Why was my card declined?",
+            "Why do I have this fee on my account?",
+            "Why can't I make a payment?"
+        ],
+        "when": [
+            "When will my deposit be available?",
+            "When can I check in?",
+            "When is the payment due?"
+        ],
+        "how_much": [
+            "How much is the interest rate?",
+            "How much does it cost to book a room?",
+            "How much is the fee for international transfers?"
+        ],
+        "how_long": [
+            "How long will it take to process my application?",
+            "How long can I stay in the room?",
+            "How long does it take for a transfer to go through?"
+        ],
+        "wrong_notworking_notshowing": [
+            "My card isn't working.",
+            "The balance is not showing correctly.",
+            "Something is wrong with my booking."
+        ],
+        "lost_stolen": [
+            "I've lost my card, what should I do?",
+            "My phone was stolen, can you help?",
+            "I need to report a stolen card."
+        ],
+        "more_higher_after": [
+            "I need a higher withdrawal limit.",
+            "Can you book me a room for a later date?",
+            "I want more information after the process."
+        ],
+        "less_lower_before": [
+            "I need a lower interest rate.",
+            "Can I check in before noon?",
+            "I want to spend less on fees."
+        ],
+        "new": [
+            "I'd like to open a new account.",
+            "Can I book a new reservation?",
+            "I want to apply for a new card."
+        ],
+        "existing": [
+            "I'd like to check my existing booking.",
+            "Can I review my existing loan?",
+            "I want to update my existing account."
+        ],
+        "limits": [
+            "What are the withdrawal limits?",
+            "Can you tell me the credit limit?",
+            "What's the limit on my card?"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "Yes, that's correct.",
+            "Exactly what I meant.",
+            "Absolutely, I agree with that."
+        ],
+        "deny": [
+            "deny",
+            "No, that's not what I meant.",
+            "I don't think so.",
+            "No, that's incorrect."
+        ],
+        "dont_know": [
+            "dont_know",
+            "I'm not sure about that.",
+            "I don't know the answer.",
+            "I have no idea."
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "I understand.",
+            "Got it, thanks.",
+            "Noted."
+        ],
+        "greet": [
+            "greet",
+            "Hello!",
+            "Good morning.",
+            "Hi there!"
+        ],
+        "end_call": [
+            "end_call",
+            "Thank you, goodbye.",
+            "I think that's all, bye.",
+            "Thanks, I'm done for now."
+        ],
+        "handoff": [
+            "handoff",
+            "Can you transfer me to an agent?",
+            "Please connect me with a human representative.",
+            "Can you pass me to someone else?"
+        ],
+        "thank": [
+            "thank",
+            "Thank you so much!",
+            "I appreciate your help.",
+            "Thanks a lot!"
+        ],
+        "repeat": [
+            "repeat",
+            "Could you say that again?",
+            "Can you repeat what you just said?",
+            "I didn't catch that, can you repeat?"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "I want to cancel my booking.",
+            "Please close my account.",
+            "I need to freeze my card."
+        ],
+        "change": [
+            "change",
+            "I need to change my reservation.",
+            "Can I change my PIN?",
+            "I'd like to update my contact information."
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "I want to open a new account.",
+            "Can you help me set up online banking?",
+            "I need to activate my card."
+        ],
+        "request_info": [
+            "request_info",
+            "Can you give me more details about this?",
+            "I need some information on your services.",
+            "Could you provide more info about that?"
+        ],
+        "how": [
+            "how",
+            "How can I book a room?",
+            "How do I apply for a loan?",
+            "How do I check my balance?"
+        ],
+        "why": [
+            "why",
+            "Why was my card declined?",
+            "Why do I have this fee on my account?",
+            "Why can't I make a payment?"
+        ],
+        "when": [
+            "when",
+            "When will my deposit be available?",
+            "When can I check in?",
+            "When is the payment due?"
+        ],
+        "how_much": [
+            "how_much",
+            "How much is the interest rate?",
+            "How much does it cost to book a room?",
+            "How much is the fee for international transfers?"
+        ],
+        "how_long": [
+            "how_long",
+            "How long will it take to process my application?",
+            "How long can I stay in the room?",
+            "How long does it take for a transfer to go through?"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "My card isn't working.",
+            "The balance is not showing correctly.",
+            "Something is wrong with my booking."
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "I've lost my card, what should I do?",
+            "My phone was stolen, can you help?",
+            "I need to report a stolen card."
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "I need a higher withdrawal limit.",
+            "Can you book me a room for a later date?",
+            "I want more information after the process."
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "I need a lower interest rate.",
+            "Can I check in before noon?",
+            "I want to spend less on fees."
+        ],
+        "new": [
+            "new",
+            "I'd like to open a new account.",
+            "Can I book a new reservation?",
+            "I want to apply for a new card."
+        ],
+        "existing": [
+            "existing",
+            "I'd like to check my existing booking.",
+            "Can I review my existing loan?",
+            "I want to update my existing account."
+        ],
+        "limits": [
+            "limits",
+            "What are the withdrawal limits?",
+            "Can you tell me the credit limit?",
+            "What's the limit on my card?"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "agree",
+            "confirm",
+            "yes"
+        ],
+        "deny": [
+            "deny",
+            "reject",
+            "refuse",
+            "no"
+        ],
+        "dont_know": [
+            "dont_know",
+            "unsure",
+            "uncertain",
+            "not sure"
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "understand",
+            "recognize",
+            "got it"
+        ],
+        "greet": [
+            "greet",
+            "hello",
+            "hi",
+            "good day"
+        ],
+        "end_call": [
+            "end_call",
+            "goodbye",
+            "end conversation",
+            "hang up"
+        ],
+        "handoff": [
+            "handoff",
+            "transfer",
+            "escalate",
+            "pass on"
+        ],
+        "thank": [
+            "thank",
+            "thanks",
+            "appreciate",
+            "thank you"
+        ],
+        "repeat": [
+            "repeat",
+            "say again",
+            "restate",
+            "can you repeat"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "terminate",
+            "stop",
+            "end"
+        ],
+        "change": [
+            "change",
+            "modify",
+            "update",
+            "alter"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "create",
+            "start",
+            "initiate"
+        ],
+        "request_info": [
+            "request_info",
+            "ask for details",
+            "inquire",
+            "request details"
+        ],
+        "how": [
+            "how",
+            "in what way",
+            "method",
+            "how to"
+        ],
+        "why": [
+            "why",
+            "reason",
+            "cause",
+            "why is it"
+        ],
+        "when": [
+            "when",
+            "time",
+            "date",
+            "what time"
+        ],
+        "how_much": [
+            "how_much",
+            "cost",
+            "price",
+            "amount"
+        ],
+        "how_long": [
+            "how_long",
+            "duration",
+            "timeframe",
+            "length of time"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "error",
+            "malfunction",
+            "issue"
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "missing",
+            "misplaced",
+            "taken"
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "increase",
+            "raise",
+            "add more"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "decrease",
+            "reduce",
+            "deduct"
+        ],
+        "new": [
+            "new",
+            "brand new",
+            "recent",
+            "latest"
+        ],
+        "existing": [
+            "existing",
+            "current",
+            "already present",
+            "in use"
+        ],
+        "limits": [
+            "limits",
+            "boundaries",
+            "restrictions",
+            "maximum"
+        ]
+    },
+    {
+        "affirm": [
+            "agree",
+            "confirm",
+            "yes"
+        ],
+        "deny": [
+            "reject",
+            "refuse",
+            "no"
+        ],
+        "dont_know": [
+            "unsure",
+            "uncertain",
+            "not sure"
+        ],
+        "acknowledge": [
+            "understand",
+            "recognize",
+            "got it"
+        ],
+        "greet": [
+            "hello",
+            "hi",
+            "good day"
+        ],
+        "end_call": [
+            "goodbye",
+            "end conversation",
+            "hang up"
+        ],
+        "handoff": [
+            "transfer",
+            "escalate",
+            "pass on"
+        ],
+        "thank": [
+            "thanks",
+            "appreciate",
+            "thank you"
+        ],
+        "repeat": [
+            "say again",
+            "restate",
+            "can you repeat"
+        ],
+        "cancel_close_leave_freeze": [
+            "terminate",
+            "stop",
+            "end"
+        ],
+        "change": [
+            "modify",
+            "update",
+            "alter"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "create",
+            "start",
+            "initiate"
+        ],
+        "request_info": [
+            "ask for details",
+            "inquire",
+            "request details"
+        ],
+        "how": [
+            "in what way",
+            "method",
+            "how to"
+        ],
+        "why": [
+            "reason",
+            "cause",
+            "why is it"
+        ],
+        "when": [
+            "time",
+            "date",
+            "what time"
+        ],
+        "how_much": [
+            "cost",
+            "price",
+            "amount"
+        ],
+        "how_long": [
+            "duration",
+            "timeframe",
+            "length of time"
+        ],
+        "wrong_notworking_notshowing": [
+            "error",
+            "malfunction",
+            "issue"
+        ],
+        "lost_stolen": [
+            "missing",
+            "misplaced",
+            "taken"
+        ],
+        "more_higher_after": [
+            "increase",
+            "raise",
+            "add more"
+        ],
+        "less_lower_before": [
+            "decrease",
+            "reduce",
+            "deduct"
+        ],
+        "new": [
+            "brand new",
+            "recent",
+            "latest"
+        ],
+        "existing": [
+            "current",
+            "already present",
+            "in use"
+        ],
+        "limits": [
+            "boundaries",
+            "restrictions",
+            "maximum"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "yes",
+            "sure",
+            "definitely",
+            "absolutely",
+            "certainly"
+        ],
+        "deny": [
+            "deny",
+            "no",
+            "not at all",
+            "never",
+            "absolutely not",
+            "no way"
+        ],
+        "dont_know": [
+            "dont_know",
+            "not sure",
+            "uncertain",
+            "I don’t know",
+            "unsure",
+            "no idea"
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "got it",
+            "understood",
+            "noted",
+            "I see",
+            "okay"
+        ],
+        "greet": [
+            "greet",
+            "hello",
+            "hi",
+            "good morning",
+            "good afternoon",
+            "hey"
+        ],
+        "end_call": [
+            "end_call",
+            "goodbye",
+            "bye",
+            "talk later",
+            "end conversation",
+            "hang up"
+        ],
+        "handoff": [
+            "handoff",
+            "transfer",
+            "pass to",
+            "redirect",
+            "forward",
+            "handover"
+        ],
+        "thank": [
+            "thank",
+            "thanks",
+            "thank you",
+            "appreciate it",
+            "much obliged",
+            "grateful"
+        ],
+        "repeat": [
+            "repeat",
+            "say again",
+            "could you repeat",
+            "please repeat",
+            "once more",
+            "can you repeat"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "cancel",
+            "close",
+            "terminate",
+            "end",
+            "freeze"
+        ],
+        "change": [
+            "change",
+            "modify",
+            "update",
+            "adjust",
+            "alter",
+            "revise"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "create",
+            "open",
+            "apply for",
+            "set up",
+            "activate"
+        ],
+        "request_info": [
+            "request_info",
+            "inquire",
+            "ask",
+            "request details",
+            "get information",
+            "seek info"
+        ],
+        "how": [
+            "how",
+            "in what way",
+            "by what means",
+            "how to",
+            "how do I",
+            "what’s the process"
+        ],
+        "why": [
+            "why",
+            "for what reason",
+            "how come",
+            "why is that",
+            "what’s the reason",
+            "why does"
+        ],
+        "when": [
+            "when",
+            "at what time",
+            "when is",
+            "what time",
+            "when does",
+            "when will"
+        ],
+        "how_much": [
+            "how_much",
+            "what’s the cost",
+            "how much does",
+            "what’s the amount",
+            "price of",
+            "cost of"
+        ],
+        "how_long": [
+            "how_long",
+            "duration",
+            "how long does it take",
+            "length of time",
+            "time needed",
+            "time it takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "not working",
+            "malfunction",
+            "problem",
+            "not displaying",
+            "issue with"
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "missing",
+            "stolen",
+            "lost",
+            "misplaced",
+            "gone"
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "increase",
+            "more than",
+            "greater than",
+            "higher",
+            "afterwards"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "decrease",
+            "less than",
+            "lower than",
+            "below",
+            "before"
+        ],
+        "new": [
+            "new",
+            "recent",
+            "latest",
+            "brand new",
+            "fresh",
+            "newly"
+        ],
+        "existing": [
+            "existing",
+            "current",
+            "ongoing",
+            "already present",
+            "in place",
+            "existing one"
+        ],
+        "limits": [
+            "limits",
+            "boundaries",
+            "restrictions",
+            "caps",
+            "maximums",
+            "thresholds"
+        ]
+    },
+    {
+        "affirm": [
+            "yes",
+            "sure",
+            "definitely",
+            "absolutely",
+            "certainly"
+        ],
+        "deny": [
+            "no",
+            "not at all",
+            "never",
+            "absolutely not",
+            "no way"
+        ],
+        "dont_know": [
+            "not sure",
+            "uncertain",
+            "I don't know",
+            "unsure",
+            "no idea"
+        ],
+        "acknowledge": [
+            "got it",
+            "understood",
+            "noted",
+            "I see",
+            "okay"
+        ],
+        "greet": [
+            "hello",
+            "hi",
+            "good morning",
+            "good afternoon",
+            "hey"
+        ],
+        "end_call": [
+            "goodbye",
+            "bye",
+            "talk later",
+            "end conversation",
+            "hang up"
+        ],
+        "handoff": [
+            "transfer",
+            "pass to",
+            "redirect",
+            "forward",
+            "handover"
+        ],
+        "thank": [
+            "thanks",
+            "thank you",
+            "appreciate it",
+            "much obliged",
+            "grateful"
+        ],
+        "repeat": [
+            "say again",
+            "could you repeat",
+            "please repeat",
+            "once more",
+            "can you repeat"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel",
+            "close",
+            "terminate",
+            "end",
+            "freeze"
+        ],
+        "change": [
+            "modify",
+            "update",
+            "adjust",
+            "alter",
+            "revise"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "create",
+            "open",
+            "apply for",
+            "set up",
+            "activate"
+        ],
+        "request_info": [
+            "inquire",
+            "ask",
+            "request details",
+            "get information",
+            "seek info"
+        ],
+        "how": [
+            "in what way",
+            "by what means",
+            "how to",
+            "how do I",
+            "what's the process"
+        ],
+        "why": [
+            "for what reason",
+            "how come",
+            "why is that",
+            "what's the reason",
+            "why does"
+        ],
+        "when": [
+            "at what time",
+            "when is",
+            "what time",
+            "when does",
+            "when will"
+        ],
+        "how_much": [
+            "what's the cost",
+            "how much does",
+            "what's the amount",
+            "price of",
+            "cost of"
+        ],
+        "how_long": [
+            "duration",
+            "how long does it take",
+            "length of time",
+            "time needed",
+            "time it takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "not working",
+            "malfunction",
+            "problem",
+            "not displaying",
+            "issue with"
+        ],
+        "lost_stolen": [
+            "missing",
+            "stolen",
+            "lost",
+            "misplaced",
+            "gone"
+        ],
+        "more_higher_after": [
+            "increase",
+            "more than",
+            "greater than",
+            "higher",
+            "afterwards"
+        ],
+        "less_lower_before": [
+            "decrease",
+            "less than",
+            "lower than",
+            "below",
+            "before"
+        ],
+        "new": [
+            "recent",
+            "latest",
+            "brand new",
+            "fresh",
+            "newly"
+        ],
+        "existing": [
+            "current",
+            "ongoing",
+            "already present",
+            "in place",
+            "existing one"
+        ],
+        "limits": [
+            "boundaries",
+            "restrictions",
+            "caps",
+            "maximums",
+            "thresholds"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "yes",
+            "sure"
+        ],
+        "deny": [
+            "deny",
+            "no",
+            "not"
+        ],
+        "dont_know": [
+            "dont_know",
+            "unknown"
+        ],
+        "acknowledge": [
+            "acknowledge"
+        ],
+        "greet": [
+            "greet",
+            "hello",
+            "hi"
+        ],
+        "end_call": [
+            "end_call",
+            "goodbye",
+            "bye"
+        ],
+        "handoff": [
+            "handoff",
+            "transfer"
+        ],
+        "thank": [
+            "thank",
+            "thanks"
+        ],
+        "repeat": [
+            "repeat",
+            "again"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "cancel",
+            "close"
+        ],
+        "change": [
+            "change"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "make",
+            "open",
+            "apply",
+            "setup",
+            "get",
+            "activate"
+        ],
+        "request_info": [
+            "request_info",
+            "info",
+            "information"
+        ],
+        "how": [
+            "how"
+        ],
+        "why": [
+            "why"
+        ],
+        "when": [
+            "when"
+        ],
+        "how_much": [
+            "how much"
+        ],
+        "how_long": [
+            "how long"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "wrong",
+            "not working",
+            "not showing"
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "lost",
+            "stolen"
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "more",
+            "higher",
+            "after"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "less",
+            "lower",
+            "before"
+        ],
+        "new": [
+            "new"
+        ],
+        "existing": [
+            "existing"
+        ],
+        "limits": [
+            "limits"
+        ]
+    }
+]

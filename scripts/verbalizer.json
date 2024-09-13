@@ -1,0 +1,1952 @@
+[
+    {
+        "affirm": ["affirm"],
+        "deny": ["deny"],
+        "dont_know": ["dont_know"],
+        "acknowledge": ["acknowledge"],
+        "greet": ["greet"],
+        "end_call": ["end_call"],
+        "handoff": ["handoff"],
+        "thank": ["thank"],
+        "repeat": ["repeat"],
+        "cancel_close_leave_freeze": ["cancel_close_leave_freeze"],
+        "change": ["change"],
+        "make_open_apply_setup_get_activate": ["make_open_apply_setup_get_activate"],
+        "request_info": ["request_info"],
+        "how": ["how"],
+        "why": ["why"],
+        "when": ["when"],
+        "how_much": ["how much"],
+        "how_long": ["how long"],
+        "wrong_notworking_notshowing": ["wrong_notworking_notshowing"],
+        "lost_stolen": ["lost_stolen"],
+        "more_higher_after": ["more_higher_after"],
+        "less_lower_before": ["less_lower_before"],
+        "new": ["new"],
+        "existing": ["existing"],
+        "limits": ["limits"],
+        "savings": ["savings"],
+        "current": ["current"],
+        "business": ["business"],
+        "credit": ["credit"],
+        "debit": ["debit"],
+        "contactless": ["contactless"],
+        "international": ["international"],
+        "account": ["account"],
+        "transfer_payment_deposit": ["transfer_payment_deposit"],
+        "appointment": ["appointment"],
+        "arrival": ["arrival"],
+        "balance": ["balance"],
+        "card": ["card"],
+        "cheque": ["cheque"],
+        "direct_debit": ["direct_debit"],
+        "standing_order": ["standing_rder"],
+        "fees_interests": ["fees_interests"],
+        "loan": ["loan"],
+        "mortgage": ["mortgage"],
+        "overdraft": ["overdraft"],
+        "withdrawal": ["withdrawal"],
+        "pin": ["pin"],
+        "refund": ["refund"],
+        "check_in": ["check_in"],
+        "check_out": ["check_out"],
+        "restaurant": ["restaurant"],
+        "swimming_pool": ["swimming_pool"],
+        "parking": ["parking"],
+        "pets": ["pets"],
+        "accesibility": ["accessibility"],
+        "booking": ["booking"],
+        "wifi": ["wifi"],
+        "gym": ["gym"],
+        "spa": ["spa"],
+        "room_ammenities": ["room_amenities"],
+        "housekeeping": ["housekeeping"],
+        "room_service": ["room_service"]
+    },
+    {
+        "affirm": ["the intent to affirm something"],
+        "deny": ["the intent to deny something"],
+        "dont_know": ["the intent to say I don't know"],
+        "acknowledge": ["the intent to acknowledge what was said"],
+        "greet": ["the intent to greet someone"],
+        "end_call": ["the intent to end call or say goodbye"],
+        "handoff": ["the intent to speak to a human or hand off"],
+        "thank": ["the intent to thank someone"],
+        "repeat": ["the intent asking to repeat the previous sentence"],
+        "cancel_close_leave_freeze": ["the intent asking about canceling or closing something"],
+        "change": ["the intent to change or modify something"],
+        "make_open_apply_setup_get_activate": ["the intent to make, open, apply, set up or activate something"],
+        "request_info": ["the intent to ask or request some information"],
+        "how": [ "the intent asking how to do something"],
+        "why": ["the intent to ask why something happened or needs to be done"],
+        "when": ["the intent to ask about when or what time something happens"],
+        "how_much": ["the intent asking about some quantity or how much"],
+        "how_long": ["the intent asking about how long something takes"],
+        "wrong_notworking_notshowing": ["the intent asking about something wrong, missing or not working"],
+        "lost_stolen": ["the intent asking about something being lost or stolen"],
+        "more_higher_after": ["the intent to indicate something more, higher, after or increasing"],
+        "less_lower_before": ["the intent to indicate something less, lower, before or decreasing"],
+        "new": ["the intent asking about something new"],
+        "existing": ["the intent asking about something that already exists"],
+        "limits": ["the intent asking about some sort of limit"],
+        "savings": ["the intent asking about the savings account"],
+        "current": ["the intent asking about the current account"],
+        "business": ["the intent to ask something about the business account"],
+        "credit": ["the intent asking about something related to credit"],
+        "debit": ["the intent asking about something related to debit"],
+        "contactless": ["the intent to ask about contactless"],
+        "international": ["the intent to ask about something related to international issues"],
+        "account": ["the intent asking about some account"],
+        "transfer_payment_deposit": ["the intent to ask about something related to a transfer, payment or deposit"],
+        "appointment": ["the intent to ask about something about an appointment"],
+        "arrival": ["the intent to ask about the arrival of something"],
+        "balance": ["the intent to ask about balance"],
+        "card": ["the intent to ask about something related to a card or cards"],
+        "cheque": ["the intent to ask about cheque"],
+        "direct_debit": ["the intent to ask about direct debit"],
+        "standing_order": ["the intent asking about a standing order"],
+        "fees_interests": ["the intent to ask about fees or interests"],
+        "loan": ["the intent to ask about loans"],
+        "mortgage": ["the intent asking about mortgage"],
+        "overdraft": ["the intent to ask about ovedraft"],
+        "withdrawal": ["the intent to ask about withdrawals"],
+        "pin": ["the intent to ask something about the pin number"],
+        "refund": ["the intent to ask about some refund"],
+        "check_in": ["the intent to ask about check in"],
+        "check_out": ["the intent to ask about check out"],
+        "restaurant": ["the intent to ask something related to restaurant"],
+        "swimming_pool": ["the intent to ask something related to the swimming pool"],
+        "parking": ["the intent to ask something related to parking"],
+        "pets": ["the intent to ask something related to pets"],
+        "accesibility": ["the intent to ask something related to accessibility"],
+        "booking": ["the intent to talk about some booking"],
+        "wifi": ["the intent to ask something related to wifi or wireless"],
+        "gym": ["the intent to ask something related to gym"],
+        "spa": ["the intent to ask something related to spa or beauty services"],
+        "room_ammenities": ["the intent to ask something related to some room amenities"],
+        "housekeeping": ["the intent to talk about housekeeping issues"],
+        "room_service": ["the intent to talk about room service"]
+    },
+    {
+        "affirm": [
+            "to affirm something"
+        ],
+        "deny": [
+            "to deny something"
+        ],
+        "dont_know": [
+            "to say I don't know"
+        ],
+        "acknowledge": [
+            "to acknowledge what was said"
+        ],
+        "greet": [
+            "to greet someone"
+        ],
+        "end_call": [
+            "to end call or say goodbye"
+        ],
+        "handoff": [
+            "to speak to a human or hand off"
+        ],
+        "thank": [
+            "to thank someone"
+        ],
+        "repeat": [
+            "asking to repeat the previous sentence"
+        ],
+        "cancel_close_leave_freeze": [
+            "asking about canceling or closing something"
+        ],
+        "change": [
+            "to change or modify something"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "to make, open, apply, set up or activate something"
+        ],
+        "request_info": [
+            "to ask or request some information"
+        ],
+        "how": [
+            "asking how to do something"
+        ],
+        "why": [
+            "to ask why something happened or needs to be done"
+        ],
+        "when": [
+            "to ask about when or what time something happens"
+        ],
+        "how_much": [
+            "asking about some quantity or how much"
+        ],
+        "how_long": [
+            "asking about how long something takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "asking about something wrong, missing or not working"
+        ],
+        "lost_stolen": [
+            "asking about something being lost or stolen"
+        ],
+        "more_higher_after": [
+            "to indicate something more, higher, after or increasing"
+        ],
+        "less_lower_before": [
+            "to indicate something less, lower, before or decreasing"
+        ],
+        "new": [
+            "asking about something new"
+        ],
+        "existing": [
+            "asking about something that already exists"
+        ],
+        "limits": [
+            "asking about some sort of limit"
+        ],
+        "savings": [
+            "asking about the savings account"
+        ],
+        "current": [
+            "asking about the current account"
+        ],
+        "business": [
+            "to ask something about the business account"
+        ],
+        "credit": [
+            "asking about something related to credit"
+        ],
+        "debit": [
+            "asking about something related to debit"
+        ],
+        "contactless": [
+            "to ask about contactless"
+        ],
+        "international": [
+            "to ask about something related to international issues"
+        ],
+        "account": [
+            "asking about some account"
+        ],
+        "transfer_payment_deposit": [
+            "to ask about something related to a transfer, payment or deposit"
+        ],
+        "appointment": [
+            "to ask about something about an appointment"
+        ],
+        "arrival": [
+            "to ask about the arrival of something"
+        ],
+        "balance": [
+            "to ask about balance"
+        ],
+        "card": [
+            "to ask about something related to a card or cards"
+        ],
+        "cheque": [
+            "to ask about cheque"
+        ],
+        "direct_debit": [
+            "to ask about direct debit"
+        ],
+        "standing_order": [
+            "asking about a standing order"
+        ],
+        "fees_interests": [
+            "to ask about fees or interests"
+        ],
+        "loan": [
+            "to ask about loans"
+        ],
+        "mortgage": [
+            "asking about mortgage"
+        ],
+        "overdraft": [
+            "to ask about ovedraft"
+        ],
+        "withdrawal": [
+            "to ask about withdrawals"
+        ],
+        "pin": [
+            "to ask something about the pin number"
+        ],
+        "refund": [
+            "to ask about some refund"
+        ],
+        "check_in": [
+            "to ask about check in"
+        ],
+        "check_out": [
+            "to ask about check out"
+        ],
+        "restaurant": [
+            "to ask something related to restaurant"
+        ],
+        "swimming_pool": [
+            "to ask something related to the swimming pool"
+        ],
+        "parking": [
+            "to ask something related to parking"
+        ],
+        "pets": [
+            "to ask something related to pets"
+        ],
+        "accesibility": [
+            "to ask something related to accessibility"
+        ],
+        "booking": [
+            "to talk about some booking"
+        ],
+        "wifi": [
+            "to ask something related to wifi or wireless"
+        ],
+        "gym": [
+            "to ask something related to gym"
+        ],
+        "spa": [
+            "to ask something related to spa or beauty services"
+        ],
+        "room_ammenities": [
+            "to ask something related to some room amenities"
+        ],
+        "housekeeping": [
+            "to talk about housekeeping issues"
+        ],
+        "room_service": [
+            "to talk about room service"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "to affirm something"
+        ],
+        "deny": [
+            "deny",
+            "to deny something"
+        ],
+        "dont_know": [
+            "dont_know",
+            "to say I don't know"
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "to acknowledge what was said"
+        ],
+        "greet": [
+            "greet",
+            "to greet someone"
+        ],
+        "end_call": [
+            "end_call",
+            "to end call or say goodbye"
+        ],
+        "handoff": [
+            "handoff",
+            "to speak to a human or hand off"
+        ],
+        "thank": [
+            "thank",
+            "to thank someone"
+        ],
+        "repeat": [
+            "repeat",
+            "asking to repeat the previous sentence"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "asking about canceling or closing something"
+        ],
+        "change": [
+            "change",
+            "to change or modify something"
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "to make, open, apply, set up or activate something"
+        ],
+        "request_info": [
+            "request_info",
+            "to ask or request some information"
+        ],
+        "how": [
+            "how",
+            "asking how to do something"
+        ],
+        "why": [
+            "why",
+            "to ask why something happened or needs to be done"
+        ],
+        "when": [
+            "when",
+            "to ask about when or what time something happens"
+        ],
+        "how_much": [
+            "how_much",
+            "asking about some quantity or how much"
+        ],
+        "how_long": [
+            "how_long",
+            "asking about how long something takes"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "asking about something wrong, missing or not working"
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "asking about something being lost or stolen"
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "to indicate something more, higher, after or increasing"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "to indicate something less, lower, before or decreasing"
+        ],
+        "new": [
+            "new",
+            "asking about something new"
+        ],
+        "existing": [
+            "existing",
+            "asking about something that already exists"
+        ],
+        "limits": [
+            "limits",
+            "asking about some sort of limit"
+        ],
+        "savings": [
+            "savings",
+            "asking about the savings account"
+        ],
+        "current": [
+            "current",
+            "asking about the current account"
+        ],
+        "business": [
+            "business",
+            "to ask something about the business account"
+        ],
+        "credit": [
+            "credit",
+            "asking about something related to credit"
+        ],
+        "debit": [
+            "debit",
+            "asking about something related to debit"
+        ],
+        "contactless": [
+            "contactless",
+            "to ask about contactless"
+        ],
+        "international": [
+            "international",
+            "to ask about something related to international issues"
+        ],
+        "account": [
+            "account",
+            "asking about some account"
+        ],
+        "transfer_payment_deposit": [
+            "transfer_payment_deposit",
+            "to ask about something related to a transfer, payment or deposit"
+        ],
+        "appointment": [
+            "appointment",
+            "to ask about something about an appointment"
+        ],
+        "arrival": [
+            "arrival",
+            "to ask about the arrival of something"
+        ],
+        "balance": [
+            "balance",
+            "to ask about balance"
+        ],
+        "card": [
+            "card",
+            "to ask about something related to a card or cards"
+        ],
+        "cheque": [
+            "cheque",
+            "to ask about cheque"
+        ],
+        "direct_debit": [
+            "direct_debit",
+            "to ask about direct debit"
+        ],
+        "standing_order": [
+            "standing_order",
+            "asking about a standing order"
+        ],
+        "fees_interests": [
+            "fees_interests",
+            "to ask about fees or interests"
+        ],
+        "loan": [
+            "loan",
+            "to ask about loans"
+        ],
+        "mortgage": [
+            "mortgage",
+            "asking about mortgage"
+        ],
+        "overdraft": [
+            "overdraft",
+            "to ask about ovedraft"
+        ],
+        "withdrawal": [
+            "withdrawal",
+            "to ask about withdrawals"
+        ],
+        "pin": [
+            "pin",
+            "to ask something about the pin number"
+        ],
+        "refund": [
+            "refund",
+            "to ask about some refund"
+        ],
+        "check_in": [
+            "check_in",
+            "to ask about check in"
+        ],
+        "check_out": [
+            "check_out",
+            "to ask about check out"
+        ],
+        "restaurant": [
+            "restaurant",
+            "to ask something related to restaurant"
+        ],
+        "swimming_pool": [
+            "swimming_pool",
+            "to ask something related to the swimming pool"
+        ],
+        "parking": [
+            "parking",
+            "to ask something related to parking"
+        ],
+        "pets": [
+            "pets",
+            "to ask something related to pets"
+        ],
+        "accesibility": [
+            "accesibility",
+            "to ask something related to accessibility"
+        ],
+        "booking": [
+            "booking",
+            "to talk about some booking"
+        ],
+        "wifi": [
+            "wifi",
+            "to ask something related to wifi or wireless"
+        ],
+        "gym": [
+            "gym",
+            "to ask something related to gym"
+        ],
+        "spa": [
+            "spa",
+            "to ask something related to spa or beauty services"
+        ],
+        "room_ammenities": [
+            "room_ammenities",
+            "to ask something related to some room amenities"
+        ],
+        "housekeeping": [
+            "housekeeping",
+            "to talk about housekeeping issues"
+        ],
+        "room_service": [
+            "room_service",
+            "to talk about room service"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "Yes, I agree with the terms."
+        ],
+        "deny": [
+            "deny",
+            "No, I don't want that service."
+        ],
+        "dont_know": [
+            "dont_know",
+            "I'm not sure about that."
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "I understand, thank you."
+        ],
+        "greet": [
+            "greet",
+            "Hello, how can I help you?"
+        ],
+        "end_call": [
+            "end_call",
+            "Goodbye, thank you for your help."
+        ],
+        "handoff": [
+            "handoff",
+            "I need to speak to a manager."
+        ],
+        "thank": [
+            "thank",
+            "Thank you for your assistance."
+        ],
+        "repeat": [
+            "repeat",
+            "Can you repeat that, please?"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "I'd like to cancel my account."
+        ],
+        "change": [
+            "change",
+            "I need to change my address."
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "I want to open a new account."
+        ],
+        "request_info": [
+            "request_info",
+            "Can you provide more information on that?"
+        ],
+        "how": [
+            "how",
+            "How does this service work?"
+        ],
+        "why": [
+            "why",
+            "Why was my transaction declined?"
+        ],
+        "when": [
+            "when",
+            "When will my account be activated?"
+        ],
+        "how_much": [
+            "how_much",
+            "How much is the fee for this service?"
+        ],
+        "how_long": [
+            "how_long",
+            "How long will the process take?"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "This feature is not working properly."
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "I've lost my card."
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "Can I get a higher credit limit?"
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "Can I set a lower withdrawal limit?"
+        ],
+        "new": [
+            "new",
+            "I'd like to open a new account."
+        ],
+        "existing": [
+            "existing",
+            "I have an existing account."
+        ],
+        "limits": [
+            "limits",
+            "What are the limits on this account?"
+        ],
+        "savings": [
+            "savings",
+            "Can I open a savings account?"
+        ],
+        "current": [
+            "current",
+            "I want to check my current account balance."
+        ],
+        "business": [
+            "business",
+            "Do you offer business accounts?"
+        ],
+        "credit": [
+            "credit",
+            "I'd like to apply for a credit card."
+        ],
+        "debit": [
+            "debit",
+            "Can I get a debit card?"
+        ],
+        "contactless": [
+            "contactless",
+            "Is contactless payment available?"
+        ],
+        "international": [
+            "international",
+            "Can I use my card internationally?"
+        ],
+        "account": [
+            "account",
+            "I need to check my account details."
+        ],
+        "transfer_payment_deposit": [
+            "transfer_payment_deposit",
+            "I want to transfer money."
+        ],
+        "appointment": [
+            "appointment",
+            "Can I schedule an appointment?"
+        ],
+        "arrival": [
+            "arrival",
+            "What time is check-in?"
+        ],
+        "balance": [
+            "balance",
+            "What's my current balance?"
+        ],
+        "card": [
+            "card",
+            "I need a replacement card."
+        ],
+        "cheque": [
+            "cheque",
+            "How do I deposit a cheque?"
+        ],
+        "direct_debit": [
+            "direct_debit",
+            "How can I set up a direct debit?"
+        ],
+        "standing_order": [
+            "standing_order",
+            "Can I create a standing order?"
+        ],
+        "fees_interests": [
+            "fees_interests",
+            "What are the fees and interests?"
+        ],
+        "loan": [
+            "loan",
+            "I want to apply for a loan."
+        ],
+        "mortgage": [
+            "mortgage",
+            "How do I get a mortgage?"
+        ],
+        "overdraft": [
+            "overdraft",
+            "Can I get an overdraft?"
+        ],
+        "withdrawal": [
+            "withdrawal",
+            "I want to make a withdrawal."
+        ],
+        "pin": [
+            "pin",
+            "How do I change my PIN?"
+        ],
+        "refund": [
+            "refund",
+            "Can I get a refund?"
+        ],
+        "check_in": [
+            "check_in",
+            "What time is check-in?"
+        ],
+        "check_out": [
+            "check_out",
+            "What time is check-out?"
+        ],
+        "restaurant": [
+            "restaurant",
+            "Is there a restaurant in the hotel?"
+        ],
+        "swimming_pool": [
+            "swimming_pool",
+            "Is there a swimming pool?"
+        ],
+        "parking": [
+            "parking",
+            "Is there parking available?"
+        ],
+        "pets": [
+            "pets",
+            "Are pets allowed?"
+        ],
+        "accesibility": [
+            "accesibility",
+            "Is the hotel accessible for disabled guests?"
+        ],
+        "booking": [
+            "booking",
+            "I'd like to make a booking."
+        ],
+        "wifi": [
+            "wifi",
+            "Is there WiFi available?"
+        ],
+        "gym": [
+            "gym",
+            "Is there a gym in the hotel?"
+        ],
+        "spa": [
+            "spa",
+            "Is there a spa?"
+        ],
+        "room_ammenities": [
+            "room_ammenities",
+            "What amenities are in the room?"
+        ],
+        "housekeeping": [
+            "housekeeping",
+            "How often is housekeeping?"
+        ],
+        "room_service": [
+            "room_service",
+            "Can I order room service?"
+        ]
+    },
+    {
+        "affirm": ["affirm", "confirm", "agree", "approve"],
+        "deny": ["deny", "reject", "refuse", "disagree"],
+        "dont_know": ["dont_know", "unsure", "uncertain", "not_sure"],
+        "acknowledge": ["acknowledge", "recognize", "accept", "admit"],
+        "greet": ["greet", "hello", "hi", "welcome"],
+        "end_call": ["end_call", "terminate_call", "hang_up", "finish_call"],
+        "handoff": ["handoff", "transfer", "pass_on", "delegate"],
+        "thank": ["thank", "thanks", "appreciate", "gratitude"],
+        "repeat": ["repeat", "reiterate", "say_again", "go_over"],
+        "cancel_close_leave_freeze": ["cancel_close_leave_freeze", "terminate", "abort"],
+        "change": ["change", "modify", "alter", "update"],
+        "make_open_apply_setup_get_activate": ["make_open_apply_setup_get_activate", "create", "initialize"],
+        "request_info": ["request_info", "ask_information", "inquire", "seek_details"],
+        "how": ["how", "in_what_way", "by_what_means", "method"],
+        "why": ["why", "for_what_reason", "purpose", "cause"],
+        "when": ["when", "at_what_time", "date", "time"],
+        "how_much": ["how_much", "amount", "quantity", "cost"],
+        "how_long": ["how_long", "duration", "length", "time_span"],
+        "wrong_notworking_notshowing": ["wrong", "not_working", "not_showing", "broken", "malfunctioning"],
+        "lost_stolen": ["lost", "stolen", "misplaced", "missing"],
+        "more_higher_after": ["more", "higher", "after", "greater", "increase"],
+        "less_lower_before": ["less", "lower", "before", "decrease", "reduced"],
+        "new": ["new", "fresh", "recent", "latest"],
+        "existing": ["existing", "current", "present", "ongoing"],
+        "limits": ["limits", "restrictions", "boundaries", "constraints"],
+        "savings": ["savings", "deposits", "reserves", "funds"],
+        "current": ["current", "checking", "ongoing", "active"],
+        "business": ["business", "corporate", "commercial", "enterprise"],
+        "credit": ["credit", "loan", "borrow", "debt"],
+        "debit": ["debit", "withdrawal", "charge", "deduction"],
+        "contactless": ["contactless", "tap", "NFC", "wireless_payment"],
+        "international": ["international", "global", "overseas", "foreign"],
+        "account": ["account", "profile", "user_account", "bank_account"],
+        "transfer_payment_deposit": ["transfer_payment_deposit", "remit", "transaction"],
+        "appointment": ["appointment", "meeting", "reservation", "booking"],
+        "arrival": ["arrival", "check_in", "coming", "entry"],
+        "balance": ["balance", "remaining", "amount_left", "funds"],
+        "card": ["card", "credit_card", "debit_card", "bank_card"],
+        "cheque": ["cheque", "check", "draft", "bill"],
+        "direct_debit": ["direct_debit", "automatic_payment", "autopay", "preauthorized_payment"],
+        "standing_order": ["standing_order", "recurring_payment", "regular_payment", "scheduled_payment"],
+        "fees_interests": ["fees_interests", "charges", "rates", "service_fees"],
+        "loan": ["loan", "credit", "mortgage", "financing"],
+        "mortgage": ["mortgage", "home_loan", "property_financing", "real_estate_loan"],
+        "overdraft": ["overdraft", "overdraw", "exceed_limit", "negative_balance"],
+        "withdrawal": ["withdrawal", "cash_out", "take_out", "remove_funds"],
+        "pin": ["pin", "personal_identification_number", "security_code", "passcode"],
+        "refund": ["refund", "reimbursement", "repayment", "return"],
+        "check_in": ["check_in", "arrival", "register", "sign_in"],
+        "check_out": ["check_out", "departure", "leave", "sign_out"],
+        "restaurant": ["restaurant", "dining", "eatery", "food_service"],
+        "swimming_pool": ["swimming_pool", "pool", "swim_area", "water_area"],
+        "parking": ["parking", "car_park", "vehicle_space", "parking_lot"],
+        "pets": ["pets", "animals", "companion_animals", "domestic_animals"],
+        "accesibility": ["accessibility", "ease_of_access", "disabled_friendly", "barrier_free"],
+        "booking": ["booking", "reservation", "appointment", "schedule"],
+        "wifi": ["wifi", "wireless_internet", "internet_connection", "wireless_network"],
+        "gym": ["gym", "fitness_center", "workout_room", "exercise_area"],
+        "spa": ["spa", "wellness_center", "relaxation_area", "massage_center"],
+        "room_ammenities": ["room_amenities", "in_room_features", "room_facilities", "comforts"],
+        "housekeeping": ["housekeeping", "cleaning_service", "maid_service", "room_cleaning"],
+        "room_service": ["room_service", "in_room_dining", "hotel_service", "guest_service"]
+    }, 
+    {
+        "affirm": ["affirm", "confirm", "agree"],
+        "deny": ["deny", "reject", "refuse"],
+        "dont_know": ["dont_know", "uncertain", "unsure"],
+        "acknowledge": ["acknowledge", "recognize", "admit"],
+        "greet": ["greet", "salute", "welcome"],
+        "end_call": ["end_call", "hang up", "terminate call"],
+        "handoff": ["handoff", "transfer", "pass along"],
+        "thank": ["thank", "express gratitude", "appreciate"],
+        "repeat": ["repeat", "reiterate", "say again"],
+        "cancel_close_leave_freeze": ["cancel_close_leave_freeze", "abort", "discontinue"],
+        "change": ["change", "modify", "alter"],
+        "make_open_apply_setup_get_activate": ["make_open_apply_setup_get_activate", "create", "initialize"],
+        "request_info": ["request_info", "ask for details", "inquire"],
+        "how": ["how", "in what way", "by what means"],
+        "why": ["why", "for what reason", "what's the purpose"],
+        "when": ["when", "at what time", "on what date"],
+        "how_much": ["how_much", "what amount", "how many"],
+        "how_long": ["how_long", "duration", "time span"],
+        "wrong_notworking_notshowing": ["wrong_notworking_notshowing", "malfunction", "error"],
+        "lost_stolen": ["lost_stolen", "missing", "taken"],
+        "more_higher_after": ["more_higher_after", "increase", "greater than"],
+        "less_lower_before": ["less_lower_before", "decrease", "less than"],
+        "new": ["new", "brand new", "recently created"],
+        "existing": ["existing", "already in place", "currently active"],
+        "limits": ["limits", "boundaries", "restrictions"],
+        "savings": ["savings", "funds", "deposits"],
+        "current": ["current", "ongoing", "present"],
+        "business": ["business", "enterprise", "company"],
+        "credit": ["credit", "loan", "borrowing"],
+        "debit": ["debit", "withdrawal", "charge"],
+        "contactless": ["contactless", "touch-free", "wireless"],
+        "international": ["international", "global", "foreign"],
+        "account": ["account", "profile", "bank account"],
+        "transfer_payment_deposit": ["transfer_payment_deposit", "move funds", "deposit money"],
+        "appointment": ["appointment", "meeting", "schedule"],
+        "arrival": ["arrival", "check-in", "coming"],
+        "balance": ["balance", "account balance", "remaining funds"],
+        "card": ["card", "bank card", "payment card"],
+        "cheque": ["cheque", "check", "bank draft"],
+        "direct_debit": ["direct_debit", "automatic payment", "electronic transfer"],
+        "standing_order": ["standing_order", "recurring payment", "regular transfer"],
+        "fees_interests": ["fees_interests", "charges", "costs"],
+        "loan": ["loan", "credit", "borrowing"],
+        "mortgage": ["mortgage", "home loan", "property loan"],
+        "overdraft": ["overdraft", "overdrawn", "exceed limit"],
+        "withdrawal": ["withdrawal", "cash out", "take out funds"],
+        "pin": ["pin", "security code", "personal identification number"],
+        "refund": ["refund", "reimbursement", "return payment"],
+        "check_in": ["check_in", "register", "arrival"],
+        "check_out": ["check_out", "leave", "departure"],
+        "restaurant": ["restaurant", "dining area", "eatery"],
+        "swimming_pool": ["swimming_pool", "pool", "aquatic center"],
+        "parking": ["parking", "car space", "vehicle storage"],
+        "pets": ["pets", "animals", "domestic animals"],
+        "accesibility": ["accesibility", "handicap access", "disability-friendly"],
+        "booking": ["booking", "reservation", "schedule"],
+        "wifi": ["wifi", "wireless internet", "internet access"],
+        "gym": ["gym", "fitness center", "workout room"],
+        "spa": ["spa", "wellness center", "health club"],
+        "room_ammenities": ["room_ammenities", "room features", "in-room facilities"],
+        "housekeeping": ["housekeeping", "room cleaning", "maid service"],
+        "room_service": ["room_service", "in-room dining", "guest service"]
+    },
+    {
+        "affirm": [
+            "Yes, that's correct.",
+            "Exactly what I meant.",
+            "Absolutely, I agree with that."
+        ],
+        "deny": [
+            "No, that's not what I meant.",
+            "I don't think so.",
+            "No, that's incorrect."
+        ],
+        "dont_know": [
+            "I'm not sure about that.",
+            "I don't know the answer.",
+            "I have no idea."
+        ],
+        "acknowledge": [
+            "I understand.",
+            "Got it, thanks.",
+            "Noted."
+        ],
+        "greet": [
+            "Hello!",
+            "Good morning.",
+            "Hi there!"
+        ],
+        "end_call": [
+            "Thank you, goodbye.",
+            "I think that's all, bye.",
+            "Thanks, I'm done for now."
+        ],
+        "handoff": [
+            "Can you transfer me to an agent?",
+            "Please connect me with a human representative.",
+            "Can you pass me to someone else?"
+        ],
+        "thank": [
+            "Thank you so much!",
+            "I appreciate your help.",
+            "Thanks a lot!"
+        ],
+        "repeat": [
+            "Could you say that again?",
+            "Can you repeat what you just said?",
+            "I didn't catch that, can you repeat?"
+        ],
+        "cancel_close_leave_freeze": [
+            "I want to cancel my booking.",
+            "Please close my account.",
+            "I need to freeze my card."
+        ],
+        "change": [
+            "I need to change my reservation.",
+            "Can I change my PIN?",
+            "I'd like to update my contact information."
+        ],
+        "make_open_apply_setup_get_activate": [
+            "I want to open a new account.",
+            "Can you help me set up online banking?",
+            "I need to activate my card."
+        ],
+        "request_info": [
+            "Can you give me more details about this?",
+            "I need some information on your services.",
+            "Could you provide more info about that?"
+        ],
+        "how": [
+            "How can I book a room?",
+            "How do I apply for a loan?",
+            "How do I check my balance?"
+        ],
+        "why": [
+            "Why was my card declined?",
+            "Why do I have this fee on my account?",
+            "Why can't I make a payment?"
+        ],
+        "when": [
+            "When will my deposit be available?",
+            "When can I check in?",
+            "When is the payment due?"
+        ],
+        "how_much": [
+            "How much is the interest rate?",
+            "How much does it cost to book a room?",
+            "How much is the fee for international transfers?"
+        ],
+        "how_long": [
+            "How long will it take to process my application?",
+            "How long can I stay in the room?",
+            "How long does it take for a transfer to go through?"
+        ],
+        "wrong_notworking_notshowing": [
+            "My card isn't working.",
+            "The balance is not showing correctly.",
+            "Something is wrong with my booking."
+        ],
+        "lost_stolen": [
+            "I've lost my card, what should I do?",
+            "My phone was stolen, can you help?",
+            "I need to report a stolen card."
+        ],
+        "more_higher_after": [
+            "I need a higher withdrawal limit.",
+            "Can you book me a room for a later date?",
+            "I want more information after the process."
+        ],
+        "less_lower_before": [
+            "I need a lower interest rate.",
+            "Can I check in before noon?",
+            "I want to spend less on fees."
+        ],
+        "new": [
+            "I'd like to open a new account.",
+            "Can I book a new reservation?",
+            "I want to apply for a new card."
+        ],
+        "existing": [
+            "I'd like to check my existing booking.",
+            "Can I review my existing loan?",
+            "I want to update my existing account."
+        ],
+        "limits": [
+            "What are the withdrawal limits?",
+            "Can you tell me the credit limit?",
+            "What's the limit on my card?"
+        ],
+        "savings": [
+            "How can I open a savings account?",
+            "What are the interest rates on savings?",
+            "Can I transfer money to my savings?"
+        ],
+        "current": [
+            "What's my current balance?",
+            "How do I open a current account?",
+            "Can I switch my current account?"
+        ],
+        "business": [
+            "How do I open a business account?",
+            "Can you help with a business loan?",
+            "I need to discuss business banking."
+        ],
+        "credit": [
+            "How do I apply for a credit card?",
+            "What's my current credit balance?",
+            "Can you increase my credit limit?"
+        ],
+        "debit": [
+            "I'd like to order a new debit card.",
+            "What's my debit card limit?",
+            "How do I report a lost debit card?"
+        ],
+        "contactless": [
+            "Is contactless payment available?",
+            "How do I enable contactless on my card?",
+            "Can I use contactless for this transaction?"
+        ],
+        "international": [
+            "What are the fees for international transfers?",
+            "Can I use my card internationally?",
+            "How do I make an international booking?"
+        ],
+        "account": [
+            "How do I open a new account?",
+            "Can you check my account balance?",
+            "I need to update my account details."
+        ],
+        "transfer_payment_deposit": [
+            "How do I make a transfer?",
+            "Can I deposit a check?",
+            "What's the process for making a payment?"
+        ],
+        "appointment": [
+            "I'd like to book an appointment.",
+            "Can I reschedule my appointment?",
+            "When is my next appointment?"
+        ],
+        "arrival": [
+            "What time should I arrive?",
+            "Can I get an early check-in?",
+            "When will my room be ready for arrival?"
+        ],
+        "balance": [
+            "Can you check my account balance?",
+            "What's my credit card balance?",
+            "I need to know my current balance."
+        ],
+        "card": [
+            "How do I apply for a new card?",
+            "My card is not working, can you help?",
+            "I need to replace my card."
+        ],
+        "cheque": [
+            "How do I deposit a cheque?",
+            "Can I order a cheque book?",
+            "What's the status of my cheque?"
+        ],
+        "direct_debit": [
+            "How do I set up a direct debit?",
+            "Can you cancel my direct debit?",
+            "When will my direct debit be processed?"
+        ],
+        "standing_order": [
+            "How do I set up a standing order?",
+            "Can you cancel my standing order?",
+            "When will my standing order go through?"
+        ],
+        "fees_interests": [
+            "What are the fees for this account?",
+            "How much interest will I earn?",
+            "Can you explain these charges?"
+        ],
+        "loan": [
+            "How do I apply for a loan?",
+            "What's the status of my loan application?",
+            "Can I pay off my loan early?"
+        ],
+        "mortgage": [
+            "How do I apply for a mortgage?",
+            "What's my mortgage rate?",
+            "Can I refinance my mortgage?"
+        ],
+        "overdraft": [
+            "How do I apply for an overdraft?",
+            "What's my overdraft limit?",
+            "Can I increase my overdraft?"
+        ],
+        "withdrawal": [
+            "How do I withdraw cash?",
+            "What's my daily withdrawal limit?",
+            "Can I withdraw money from my savings?"
+        ],
+        "pin": [
+            "How do I reset my PIN?",
+            "Can I change my card PIN?",
+            "I've forgotten my PIN, what should I do?"
+        ],
+        "refund": [
+            "How do I get a refund?",
+            "Can you process my refund?",
+            "When will my refund be issued?"
+        ],
+        "check_in": [
+            "What time can I check in?",
+            "Can I check in early?",
+            "Where do I check in?"
+        ],
+        "check_out": [
+            "What time is check-out?",
+            "Can I get a late check-out?",
+            "Where do I check out?"
+        ],
+        "restaurant": [
+            "Is there a restaurant on site?",
+            "Can I book a table at the restaurant?",
+            "What are the restaurant hours?"
+        ],
+        "swimming_pool": [
+            "Is there a swimming pool available?",
+            "What are the pool hours?",
+            "Can I use the pool after check-out?"
+        ],
+        "parking": [
+            "Is there parking available?",
+            "How much is parking?",
+            "Can I reserve a parking spot?"
+        ],
+        "pets": [
+            "Are pets allowed in the hotel?",
+            "Can I bring my dog?",
+            "What's the pet policy?"
+        ],
+        "accesibility": [
+            "Do you have accessible rooms?",
+            "Is the hotel wheelchair accessible?",
+            "What accessibility features are available?"
+        ],
+        "booking": [
+            "How do I make a booking?",
+            "Can I modify my booking?",
+            "What's the status of my booking?"
+        ],
+        "wifi": [
+            "Is there free Wi-Fi?",
+            "How do I connect to the Wi-Fi?",
+            "What's the Wi-Fi password?"
+        ],
+        "gym": [
+            "Is there a gym in the hotel?",
+            "What are the gym hours?",
+            "Do I need to book to use the gym?"
+        ],
+        "spa": [
+            "Is there a spa available?",
+            "What services does the spa offer?",
+            "Can I book a spa appointment?"
+        ],
+        "room_ammenities": [
+            "What amenities are available in the room?",
+            "Do the rooms have a minibar?",
+            "Is there a coffee maker in the room?"
+        ],
+        "housekeeping": [
+            "Can I request housekeeping?",
+            "What time does housekeeping service the rooms?",
+            "Can I get extra towels from housekeeping?"
+        ],
+        "room_service": [
+            "Is room service available?",
+            "Can I order room service?",
+            "What's the room service menu?"
+        ]
+    },
+    {
+        "affirm": [
+            "affirm",
+            "Yes, that's correct.",
+            "Exactly what I meant.",
+            "Absolutely, I agree with that."
+        ],
+        "deny": [
+            "deny",
+            "No, that's not what I meant.",
+            "I don't think so.",
+            "No, that's incorrect."
+        ],
+        "dont_know": [
+            "dont_know",
+            "I'm not sure about that.",
+            "I don't know the answer.",
+            "I have no idea."
+        ],
+        "acknowledge": [
+            "acknowledge",
+            "I understand.",
+            "Got it, thanks.",
+            "Noted."
+        ],
+        "greet": [
+            "greet",
+            "Hello!",
+            "Good morning.",
+            "Hi there!"
+        ],
+        "end_call": [
+            "end_call",
+            "Thank you, goodbye.",
+            "I think that's all, bye.",
+            "Thanks, I'm done for now."
+        ],
+        "handoff": [
+            "handoff",
+            "Can you transfer me to an agent?",
+            "Please connect me with a human representative.",
+            "Can you pass me to someone else?"
+        ],
+        "thank": [
+            "thank",
+            "Thank you so much!",
+            "I appreciate your help.",
+            "Thanks a lot!"
+        ],
+        "repeat": [
+            "repeat",
+            "Could you say that again?",
+            "Can you repeat what you just said?",
+            "I didn't catch that, can you repeat?"
+        ],
+        "cancel_close_leave_freeze": [
+            "cancel_close_leave_freeze",
+            "I want to cancel my booking.",
+            "Please close my account.",
+            "I need to freeze my card."
+        ],
+        "change": [
+            "change",
+            "I need to change my reservation.",
+            "Can I change my PIN?",
+            "I'd like to update my contact information."
+        ],
+        "make_open_apply_setup_get_activate": [
+            "make_open_apply_setup_get_activate",
+            "I want to open a new account.",
+            "Can you help me set up online banking?",
+            "I need to activate my card."
+        ],
+        "request_info": [
+            "request_info",
+            "Can you give me more details about this?",
+            "I need some information on your services.",
+            "Could you provide more info about that?"
+        ],
+        "how": [
+            "how",
+            "How can I book a room?",
+            "How do I apply for a loan?",
+            "How do I check my balance?"
+        ],
+        "why": [
+            "why",
+            "Why was my card declined?",
+            "Why do I have this fee on my account?",
+            "Why can't I make a payment?"
+        ],
+        "when": [
+            "when",
+            "When will my deposit be available?",
+            "When can I check in?",
+            "When is the payment due?"
+        ],
+        "how_much": [
+            "how_much",
+            "How much is the interest rate?",
+            "How much does it cost to book a room?",
+            "How much is the fee for international transfers?"
+        ],
+        "how_long": [
+            "how_long",
+            "How long will it take to process my application?",
+            "How long can I stay in the room?",
+            "How long does it take for a transfer to go through?"
+        ],
+        "wrong_notworking_notshowing": [
+            "wrong_notworking_notshowing",
+            "My card isn't working.",
+            "The balance is not showing correctly.",
+            "Something is wrong with my booking."
+        ],
+        "lost_stolen": [
+            "lost_stolen",
+            "I've lost my card, what should I do?",
+            "My phone was stolen, can you help?",
+            "I need to report a stolen card."
+        ],
+        "more_higher_after": [
+            "more_higher_after",
+            "I need a higher withdrawal limit.",
+            "Can you book me a room for a later date?",
+            "I want more information after the process."
+        ],
+        "less_lower_before": [
+            "less_lower_before",
+            "I need a lower interest rate.",
+            "Can I check in before noon?",
+            "I want to spend less on fees."
+        ],
+        "new": [
+            "new",
+            "I'd like to open a new account.",
+            "Can I book a new reservation?",
+            "I want to apply for a new card."
+        ],
+        "existing": [
+            "existing",
+            "I'd like to check my existing booking.",
+            "Can I review my existing loan?",
+            "I want to update my existing account."
+        ],
+        "limits": [
+            "limits",
+            "What are the withdrawal limits?",
+            "Can you tell me the credit limit?",
+            "What's the limit on my card?"
+        ],
+        "savings": [
+            "savings",
+            "How can I open a savings account?",
+            "What are the interest rates on savings?",
+            "Can I transfer money to my savings?"
+        ],
+        "current": [
+            "current",
+            "What's my current balance?",
+            "How do I open a current account?",
+            "Can I switch my current account?"
+        ],
+        "business": [
+            "business",
+            "How do I open a business account?",
+            "Can you help with a business loan?",
+            "I need to discuss business banking."
+        ],
+        "credit": [
+            "credit",
+            "How do I apply for a credit card?",
+            "What's my current credit balance?",
+            "Can you increase my credit limit?"
+        ],
+        "debit": [
+            "debit",
+            "I'd like to order a new debit card.",
+            "What's my debit card limit?",
+            "How do I report a lost debit card?"
+        ],
+        "contactless": [
+            "contactless",
+            "Is contactless payment available?",
+            "How do I enable contactless on my card?",
+            "Can I use contactless for this transaction?"
+        ],
+        "international": [
+            "international",
+            "What are the fees for international transfers?",
+            "Can I use my card internationally?",
+            "How do I make an international booking?"
+        ],
+        "account": [
+            "account",
+            "How do I open a new account?",
+            "Can you check my account balance?",
+            "I need to update my account details."
+        ],
+        "transfer_payment_deposit": [
+            "transfer_payment_deposit",
+            "How do I make a transfer?",
+            "Can I deposit a check?",
+            "What's the process for making a payment?"
+        ],
+        "appointment": [
+            "appointment",
+            "I'd like to book an appointment.",
+            "Can I reschedule my appointment?",
+            "When is my next appointment?"
+        ],
+        "arrival": [
+            "arrival",
+            "What time should I arrive?",
+            "Can I get an early check-in?",
+            "When will my room be ready for arrival?"
+        ],
+        "balance": [
+            "balance",
+            "Can you check my account balance?",
+            "What's my credit card balance?",
+            "I need to know my current balance."
+        ],
+        "card": [
+            "card",
+            "How do I apply for a new card?",
+            "My card is not working, can you help?",
+            "I need to replace my card."
+        ],
+        "cheque": [
+            "cheque",
+            "How do I deposit a cheque?",
+            "Can I order a cheque book?",
+            "What's the status of my cheque?"
+        ],
+        "direct_debit": [
+            "direct_debit",
+            "How do I set up a direct debit?",
+            "Can you cancel my direct debit?",
+            "When will my direct debit be processed?"
+        ],
+        "standing_order": [
+            "standing_order",
+            "How do I set up a standing order?",
+            "Can you cancel my standing order?",
+            "When will my standing order go through?"
+        ],
+        "fees_interests": [
+            "fees_interests",
+            "What are the fees for this account?",
+            "How much interest will I earn?",
+            "Can you explain these charges?"
+        ],
+        "loan": [
+            "loan",
+            "How do I apply for a loan?",
+            "What's the status of my loan application?",
+            "Can I pay off my loan early?"
+        ],
+        "mortgage": [
+            "mortgage",
+            "How do I apply for a mortgage?",
+            "What's my mortgage rate?",
+            "Can I refinance my mortgage?"
+        ],
+        "overdraft": [
+            "overdraft",
+            "How do I apply for an overdraft?",
+            "What's my overdraft limit?",
+            "Can I increase my overdraft?"
+        ],
+        "withdrawal": [
+            "withdrawal",
+            "How do I withdraw cash?",
+            "What's my daily withdrawal limit?",
+            "Can I withdraw money from my savings?"
+        ],
+        "pin": [
+            "pin",
+            "How do I reset my PIN?",
+            "Can I change my card PIN?",
+            "I've forgotten my PIN, what should I do?"
+        ],
+        "refund": [
+            "refund",
+            "How do I get a refund?",
+            "Can you process my refund?",
+            "When will my refund be issued?"
+        ],
+        "check_in": [
+            "check_in",
+            "What time can I check in?",
+            "Can I check in early?",
+            "Where do I check in?"
+        ],
+        "check_out": [
+            "check_out",
+            "What time is check-out?",
+            "Can I get a late check-out?",
+            "Where do I check out?"
+        ],
+        "restaurant": [
+            "restaurant",
+            "Is there a restaurant on site?",
+            "Can I book a table at the restaurant?",
+            "What are the restaurant hours?"
+        ],
+        "swimming_pool": [
+            "swimming_pool",
+            "Is there a swimming pool available?",
+            "What are the pool hours?",
+            "Can I use the pool after check-out?"
+        ],
+        "parking": [
+            "parking",
+            "Is there parking available?",
+            "How much is parking?",
+            "Can I reserve a parking spot?"
+        ],
+        "pets": [
+            "pets",
+            "Are pets allowed in the hotel?",
+            "Can I bring my dog?",
+            "What's the pet policy?"
+        ],
+        "accesibility": [
+            "accesibility",
+            "Do you have accessible rooms?",
+            "Is the hotel wheelchair accessible?",
+            "What accessibility features are available?"
+        ],
+        "booking": [
+            "booking",
+            "How do I make a booking?",
+            "Can I modify my booking?",
+            "What's the status of my booking?"
+        ],
+        "wifi": [
+            "wifi",
+            "Is there free Wi-Fi?",
+            "How do I connect to the Wi-Fi?",
+            "What's the Wi-Fi password?"
+        ],
+        "gym": [
+            "gym",
+            "Is there a gym in the hotel?",
+            "What are the gym hours?",
+            "Do I need to book to use the gym?"
+        ],
+        "spa": [
+            "spa",
+            "Is there a spa available?",
+            "What services does the spa offer?",
+            "Can I book a spa appointment?"
+        ],
+        "room_ammenities": [
+            "room_ammenities",
+            "What amenities are available in the room?",
+            "Do the rooms have a minibar?",
+            "Is there a coffee maker in the room?"
+        ],
+        "housekeeping": [
+            "housekeeping",
+            "Can I request housekeeping?",
+            "What time does housekeeping service the rooms?",
+            "Can I get extra towels from housekeeping?"
+        ],
+        "room_service": [
+            "room_service",
+            "Is room service available?",
+            "Can I order room service?",
+            "What's the room service menu?"
+        ]
+    },
+    {
+        "affirm": ["affirm", "agree", "confirm", "yes"],
+        "deny": ["deny", "reject", "refuse", "no"],
+        "dont_know": ["dont_know", "unsure", "uncertain", "not sure"],
+        "acknowledge": ["acknowledge", "understand", "recognize", "got it"],
+        "greet": ["greet", "hello", "hi", "good day"],
+        "end_call": ["end_call", "goodbye", "end conversation", "hang up"],
+        "handoff": ["handoff", "transfer", "escalate", "pass on"],
+        "thank": ["thank", "thanks", "appreciate", "thank you"],
+        "repeat": ["repeat", "say again", "restate", "can you repeat"],
+        "cancel_close_leave_freeze": ["cancel_close_leave_freeze", "terminate", "stop", "end"],
+        "change": ["change", "modify", "update", "alter"],
+        "make_open_apply_setup_get_activate": ["make_open_apply_setup_get_activate", "create", "start", "initiate"],
+        "request_info": ["request_info", "ask for details", "inquire", "request details"],
+        "how": ["how", "in what way", "method", "how to"],
+        "why": ["why", "reason", "cause", "why is it"],
+        "when": ["when", "time", "date", "what time"],
+        "how_much": ["how_much", "cost", "price", "amount"],
+        "how_long": ["how_long", "duration", "timeframe", "length of time"],
+        "wrong_notworking_notshowing": ["wrong_notworking_notshowing", "error", "malfunction", "issue"],
+        "lost_stolen": ["lost_stolen", "missing", "misplaced", "taken"],
+        "more_higher_after": ["more_higher_after", "increase", "raise", "add more"],
+        "less_lower_before": ["less_lower_before", "decrease", "reduce", "deduct"],
+        "new": ["new", "brand new", "recent", "latest"],
+        "existing": ["existing", "current", "already present", "in use"],
+        "limits": ["limits", "boundaries", "restrictions", "maximum"],
+        "savings": ["savings", "deposit account", "interest account", "saving"],
+        "current": ["current", "checking account", "transactional account", "spending account"],
+        "business": ["business", "corporate", "commercial", "enterprise"],
+        "credit": ["credit", "loan", "borrow", "credit line"],
+        "debit": ["debit", "withdraw", "charge", "deduction"],
+        "contactless": ["contactless", "tap and go", "no contact", "NFC payment"],
+        "international": ["international", "global", "overseas", "worldwide"],
+        "account": ["account", "bank account", "user account", "profile"],
+        "transfer_payment_deposit": ["transfer_payment_deposit", "move money", "send funds", "add funds"],
+        "appointment": ["appointment", "meeting", "schedule", "book a time"],
+        "arrival": ["arrival", "check-in", "coming", "getting there"],
+        "balance": ["balance", "remaining amount", "total funds", "current total"],
+        "card": ["card", "bank card", "plastic card", "debit/credit card"],
+        "cheque": ["cheque", "check", "bill of exchange", "bank draft"],
+        "direct_debit": ["direct_debit", "automatic payment", "auto debit", "direct withdrawal"],
+        "standing_order": ["standing_order", "regular payment", "fixed payment", "scheduled payment"],
+        "fees_interests": ["fees_interests", "charges", "rates", "service fees"],
+        "loan": ["loan", "borrowed money", "credit", "advance"],
+        "mortgage": ["mortgage", "home loan", "property loan", "house financing"],
+        "overdraft": ["overdraft", "negative balance", "overdrawn", "exceed limit"],
+        "withdrawal": ["withdrawal", "cash out", "remove funds", "take out money"],
+        "pin": ["pin", "security code", "personal identification number", "access code"],
+        "refund": ["refund", "money back", "reimbursement", "return of funds"],
+        "check_in": ["check_in", "arrive", "sign in", "register"],
+        "check_out": ["check_out", "leave", "sign out", "complete stay"],
+        "restaurant": ["restaurant", "dining", "eatery", "food service"],
+        "swimming_pool": ["swimming_pool", "pool", "water facility", "swimming area"],
+        "parking": ["parking", "car park", "parking lot", "parking space"],
+        "pets": ["pets", "animals", "pet-friendly", "companion animals"],
+        "accesibility": ["accesibility", "disabled access", "wheelchair access", "easy access"],
+        "booking": ["booking", "reservation", "making a reservation", "book a stay"],
+        "wifi": ["wifi", "internet", "wireless connection", "Wi-Fi network"],
+        "gym": ["gym", "fitness center", "exercise room", "workout area"],
+        "spa": ["spa", "wellness center", "massage center", "relaxation area"],
+        "room_ammenities": ["room_ammenities", "in-room facilities", "hotel room features", "guestroom features"],
+        "housekeeping": ["housekeeping", "room cleaning", "maid service", "room service"],
+        "room_service": ["room_service", "in-room dining", "guestroom dining", "hotel room service"]
+    },
+    {
+        "affirm": ["agree", "confirm", "yes"],
+        "deny": ["reject", "refuse", "no"],
+        "dont_know": ["unsure", "uncertain", "not sure"],
+        "acknowledge": ["understand", "recognize", "got it"],
+        "greet": ["hello", "hi", "good day"],
+        "end_call": ["goodbye", "end conversation", "hang up"],
+        "handoff": ["transfer", "escalate", "pass on"],
+        "thank": ["thanks", "appreciate", "thank you"],
+        "repeat": ["say again", "restate", "can you repeat"],
+        "cancel_close_leave_freeze": ["terminate", "stop", "end"],
+        "change": ["modify", "update", "alter"],
+        "make_open_apply_setup_get_activate": ["create", "start", "initiate"],
+        "request_info": ["ask for details", "inquire", "request details"],
+        "how": ["in what way", "method", "how to"],
+        "why": ["reason", "cause", "why is it"],
+        "when": ["time", "date", "what time"],
+        "how_much": ["cost", "price", "amount"],
+        "how_long": ["duration", "timeframe", "length of time"],
+        "wrong_notworking_notshowing": ["error", "malfunction", "issue"],
+        "lost_stolen": ["missing", "misplaced", "taken"],
+        "more_higher_after": ["increase", "raise", "add more"],
+        "less_lower_before": ["decrease", "reduce", "deduct"],
+        "new": ["brand new", "recent", "latest"],
+        "existing": ["current", "already present", "in use"],
+        "limits": ["boundaries", "restrictions", "maximum"],
+        "savings": ["deposit account", "interest account", "saving"],
+        "current": ["checking account", "transactional account", "spending account"],
+        "business": ["corporate", "commercial", "enterprise"],
+        "credit": ["loan", "borrow", "credit line"],
+        "debit": ["withdraw", "charge", "deduction"],
+        "contactless": ["tap and go", "no contact", "NFC payment"],
+        "international": ["global", "overseas", "worldwide"],
+        "account": ["bank account", "user account", "profile"],
+        "transfer_payment_deposit": ["move money", "send funds", "add funds"],
+        "appointment": ["meeting", "schedule", "book a time"],
+        "arrival": ["check-in", "coming", "getting there"],
+        "balance": ["remaining amount", "total funds", "current total"],
+        "card": ["bank card", "plastic card", "debit/credit card"],
+        "cheque": ["check", "bill of exchange", "bank draft"],
+        "direct_debit": ["automatic payment", "auto debit", "direct withdrawal"],
+        "standing_order": ["regular payment", "fixed payment", "scheduled payment"],
+        "fees_interests": ["charges", "rates", "service fees"],
+        "loan": ["borrowed money", "credit", "advance"],
+        "mortgage": ["home loan", "property loan", "house financing"],
+        "overdraft": ["negative balance", "overdrawn", "exceed limit"],
+        "withdrawal": ["cash out", "remove funds", "take out money"],
+        "pin": ["security code", "personal identification number", "access code"],
+        "refund": ["money back", "reimbursement", "return of funds"],
+        "check_in": ["arrive", "sign in", "register"],
+        "check_out": ["leave", "sign out", "complete stay"],
+        "restaurant": ["dining", "eatery", "food service"],
+        "swimming_pool": ["pool", "water facility", "swimming area"],
+        "parking": ["car park", "parking lot", "parking space"],
+        "pets": ["animals", "pet-friendly", "companion animals"],
+        "accesibility": ["disabled access", "wheelchair access", "easy access"],
+        "booking": ["reservation", "making a reservation", "book a stay"],
+        "wifi": ["internet", "wireless connection", "Wi-Fi network"],
+        "gym": ["fitness center", "exercise room", "workout area"],
+        "spa": ["wellness center", "massage center", "relaxation area"],
+        "room_ammenities": ["in-room facilities", "hotel room features", "guestroom features"],
+        "housekeeping": ["room cleaning", "maid service", "room service"],
+        "room_service": ["in-room dining", "guestroom dining", "hotel room service"]
+    },
+    {
+        "affirm": ["affirm", "yes", "sure", "definitely", "absolutely", "certainly"],
+        "deny": ["deny", "no", "not at all", "never", "absolutely not", "no way"],
+        "dont_know": ["dont_know", "not sure", "uncertain", "I don’t know", "unsure", "no idea"],
+        "acknowledge": ["acknowledge", "got it", "understood", "noted", "I see", "okay"],
+        "greet": ["greet", "hello", "hi", "good morning", "good afternoon", "hey"],
+        "end_call": ["end_call", "goodbye", "bye", "talk later", "end conversation", "hang up"],
+        "handoff": ["handoff", "transfer", "pass to", "redirect", "forward", "handover"],
+        "thank": ["thank", "thanks", "thank you", "appreciate it", "much obliged", "grateful"],
+        "repeat": ["repeat", "say again", "could you repeat", "please repeat", "once more", "can you repeat"],
+        "cancel_close_leave_freeze": ["cancel_close_leave_freeze", "cancel", "close", "terminate", "end", "freeze"],
+        "change": ["change", "modify", "update", "adjust", "alter", "revise"],
+        "make_open_apply_setup_get_activate": ["make_open_apply_setup_get_activate", "create", "open", "apply for", "set up", "activate"],
+        "request_info": ["request_info", "inquire", "ask", "request details", "get information", "seek info"],
+        "how": ["how", "in what way", "by what means", "how to", "how do I", "what’s the process"],
+        "why": ["why", "for what reason", "how come", "why is that", "what’s the reason", "why does"],
+        "when": ["when", "at what time", "when is", "what time", "when does", "when will"],
+        "how_much": ["how_much", "what’s the cost", "how much does", "what’s the amount", "price of", "cost of"],
+        "how_long": ["how_long", "duration", "how long does it take", "length of time", "time needed", "time it takes"],
+        "wrong_notworking_notshowing": ["wrong_notworking_notshowing", "not working", "malfunction", "problem", "not displaying", "issue with"],
+        "lost_stolen": ["lost_stolen", "missing", "stolen", "lost", "misplaced", "gone"],
+        "more_higher_after": ["more_higher_after", "increase", "more than", "greater than", "higher", "afterwards"],
+        "less_lower_before": ["less_lower_before", "decrease", "less than", "lower than", "below", "before"],
+        "new": ["new", "recent", "latest", "brand new", "fresh", "newly"],
+        "existing": ["existing", "current", "ongoing", "already present", "in place", "existing one"],
+        "limits": ["limits", "boundaries", "restrictions", "caps", "maximums", "thresholds"],
+        "savings": ["savings", "deposit", "savings account", "funds saved", "money saved", "stored money"],
+        "current": ["current", "checking account", "current account", "regular account", "present", "in use"],
+        "business": ["business", "commercial", "corporate", "enterprise", "company", "business account"],
+        "credit": ["credit", "credit card", "credit account", "line of credit", "credit balance", "borrowed money"],
+        "debit": ["debit", "debit card", "debit account", "debit balance", "withdrawal", "charged"],
+        "contactless": ["contactless", "touchless", "tap and go", "NFC", "contact-free", "wireless payment"],
+        "international": ["international", "global", "worldwide", "overseas", "foreign", "internationally"],
+        "account": ["account", "bank account", "financial account", "user account", "profile", "customer account"],
+        "transfer_payment_deposit": ["transfer_payment_deposit", "fund transfer", "make a payment", "deposit money", "send money", "transfer funds"],
+        "appointment": ["appointment", "booking", "meeting", "schedule", "reservation", "session"],
+        "arrival": ["arrival", "check-in", "coming", "arriving", "arrival time", "reaching"],
+        "balance": ["balance", "account balance", "remaining funds", "current balance", "available balance", "total balance"],
+        "card": ["card", "bank card", "credit card", "debit card", "payment card", "plastic card"],
+        "cheque": ["cheque", "check", "bank check", "draft", "cheque payment", "paper check"],
+        "direct_debit": ["direct_debit", "automatic payment", "auto debit", "preauthorized payment", "direct payment", "scheduled debit"],
+        "standing_order": ["standing_order", "recurring payment", "scheduled payment", "regular payment", "standing instruction", "fixed order"],
+        "fees_interests": ["fees_interests", "charges", "interest rate", "service fees", "penalties", "costs"],
+        "loan": ["loan", "borrow", "loan account", "loan payment", "loan amount", "credit loan"],
+        "mortgage": ["mortgage", "home loan", "property loan", "house mortgage", "mortgage payment", "mortgage account"],
+        "overdraft": ["overdraft", "overdrawn", "negative balance", "overdraft protection", "excess withdrawal", "insufficient funds"],
+        "withdrawal": ["withdrawal", "cash withdrawal", "take out money", "withdraw funds", "remove money", "draw money"],
+        "pin": ["pin", "PIN code", "personal identification number", "security code", "PIN number", "PIN entry"],
+        "refund": ["refund", "money back", "repayment", "reimbursement", "return funds", "refund process"],
+        "check_in": ["check_in", "arrive", "register", "check into", "arrival check", "sign in"],
+        "check_out": ["check_out", "depart", "leave", "check out of", "departure", "sign out"],
+        "restaurant": ["restaurant", "dining", "eatery", "food service", "café", "bistro"],
+        "swimming_pool": ["swimming_pool", "pool", "indoor pool", "outdoor pool", "swim area", "water facility"],
+        "parking": ["parking", "car park", "parking space", "vehicle parking", "parking lot", "parking area"],
+        "pets": ["pets", "pet-friendly", "animals allowed", "bring pets", "pet accommodation", "pets welcome"],
+        "accesibility": ["accesibility", "wheelchair access", "accessible facilities", "disabled access", "handicap access", "easy access"],
+        "booking": ["booking", "reservation", "make a booking", "book a room", "reserve", "room booking"],
+        "wifi": ["wifi", "internet", "wireless internet", "Wi-Fi connection", "internet access", "wireless network"],
+        "gym": ["gym", "fitness center", "exercise room", "workout area", "gymnasium", "fitness facility"],
+        "spa": ["spa", "wellness center", "spa services", "relaxation center", "spa treatment", "health spa"],
+        "room_ammenities": ["room_ammenities", "room features", "in-room facilities", "room comforts", "amenities", "room services"],
+        "housekeeping": ["housekeeping", "cleaning service", "maid service", "room cleaning", "housekeeping staff", "cleanliness"],
+        "room_service": ["room_service", "in-room dining", "room delivery", "meal service", "room order", "food service"]
+    },
+    {
+        "affirm": ["yes", "sure", "definitely", "absolutely", "certainly"],
+        "deny": ["no", "not at all", "never", "absolutely not", "no way"],
+        "dont_know": ["not sure", "uncertain", "I don't know", "unsure", "no idea"],
+        "acknowledge": ["got it", "understood", "noted", "I see", "okay"],
+        "greet": ["hello", "hi", "good morning", "good afternoon", "hey"],
+        "end_call": ["goodbye", "bye", "talk later", "end conversation", "hang up"],
+        "handoff": ["transfer", "pass to", "redirect", "forward", "handover"],
+        "thank": ["thanks", "thank you", "appreciate it", "much obliged", "grateful"],
+        "repeat": ["say again", "could you repeat", "please repeat", "once more", "can you repeat"],
+        "cancel_close_leave_freeze": ["cancel", "close", "terminate", "end", "freeze"],
+        "change": ["modify", "update", "adjust", "alter", "revise"],
+        "make_open_apply_setup_get_activate": ["create", "open", "apply for", "set up", "activate"],
+        "request_info": ["inquire", "ask", "request details", "get information", "seek info"],
+        "how": ["in what way", "by what means", "how to", "how do I", "what's the process"],
+        "why": ["for what reason", "how come", "why is that", "what's the reason", "why does"],
+        "when": ["at what time", "when is", "what time", "when does", "when will"],
+        "how_much": ["what's the cost", "how much does", "what's the amount", "price of", "cost of"],
+        "how_long": ["duration", "how long does it take", "length of time", "time needed", "time it takes"],
+        "wrong_notworking_notshowing": ["not working", "malfunction", "problem", "not displaying", "issue with"],
+        "lost_stolen": ["missing", "stolen", "lost", "misplaced", "gone"],
+        "more_higher_after": ["increase", "more than", "greater than", "higher", "afterwards"],
+        "less_lower_before": ["decrease", "less than", "lower than", "below", "before"],
+        "new": ["recent", "latest", "brand new", "fresh", "newly"],
+        "existing": ["current", "ongoing", "already present", "in place", "existing one"],
+        "limits": ["boundaries", "restrictions", "caps", "maximums", "thresholds"],
+        "savings": ["deposit", "savings account", "funds saved", "money saved", "stored money"],
+        "current": ["checking account", "current account", "regular account", "present", "in use"],
+        "business": ["commercial", "corporate", "enterprise", "company", "business account"],
+        "credit": ["credit card", "credit account", "line of credit", "credit balance", "borrowed money"],
+        "debit": ["debit card", "debit account", "debit balance", "withdrawal", "charged"],
+        "contactless": ["touchless", "tap and go", "NFC", "contact-free", "wireless payment"],
+        "international": ["global", "worldwide", "overseas", "foreign", "internationally"],
+        "account": ["bank account", "financial account", "user account", "profile", "customer account"],
+        "transfer_payment_deposit": ["fund transfer", "make a payment", "deposit money", "send money", "transfer funds"],
+        "appointment": ["booking", "meeting", "schedule", "reservation", "session"],
+        "arrival": ["check-in", "coming", "arriving", "arrival time", "reaching"],
+        "balance": ["account balance", "remaining funds", "current balance", "available balance", "total balance"],
+        "card": ["bank card", "credit card", "debit card", "payment card", "plastic card"],
+        "cheque": ["check", "bank check", "draft", "cheque payment", "paper check"],
+        "direct_debit": ["automatic payment", "auto debit", "preauthorized payment", "direct payment", "scheduled debit"],
+        "standing_order": ["recurring payment", "scheduled payment", "regular payment", "standing instruction", "fixed order"],
+        "fees_interests": ["charges", "interest rate", "service fees", "penalties", "costs"],
+        "loan": ["borrow", "loan account", "loan payment", "loan amount", "credit loan"],
+        "mortgage": ["home loan", "property loan", "house mortgage", "mortgage payment", "mortgage account"],
+        "overdraft": ["overdrawn", "negative balance", "overdraft protection", "excess withdrawal", "insufficient funds"],
+        "withdrawal": ["cash withdrawal", "take out money", "withdraw funds", "remove money", "draw money"],
+        "pin": ["PIN code", "personal identification number", "security code", "PIN number", "PIN entry"],
+        "refund": ["money back", "repayment", "reimbursement", "return funds", "refund process"],
+        "check_in": ["arrive", "register", "check into", "arrival check", "sign in"],
+        "check_out": ["depart", "leave", "check out of", "departure", "sign out"],
+        "restaurant": ["dining", "eatery", "food service", "café", "bistro"],
+        "swimming_pool": ["pool", "indoor pool", "outdoor pool", "swim area", "water facility"],
+        "parking": ["car park", "parking space", "vehicle parking", "parking lot", "parking area"],
+        "pets": ["pet-friendly", "animals allowed", "bring pets", "pet accommodation", "pets welcome"],
+        "accesibility": ["wheelchair access", "accessible facilities", "disabled access", "handicap access", "easy access"],
+        "booking": ["reservation", "make a booking", "book a room", "reserve", "room booking"],
+        "wifi": ["internet", "wireless internet", "Wi-Fi connection", "internet access", "wireless network"],
+        "gym": ["fitness center", "exercise room", "workout area", "gymnasium", "fitness facility"],
+        "spa": ["wellness center", "spa services", "relaxation center", "spa treatment", "health spa"],
+        "room_ammenities": ["room features", "in-room facilities", "room comforts", "amenities", "room services"],
+        "housekeeping": ["cleaning service", "maid service", "room cleaning", "housekeeping staff", "cleanliness"],
+        "room_service": ["in-room dining", "room delivery", "meal service", "room order", "food service"]
+    },    
+    {
+        "affirm": ["affirm","yes", "sure"],
+        "deny": ["deny","no", "not"],
+        "dont_know": ["dont_know","unknown"],
+        "acknowledge": ["acknowledge"],
+        "greet": ["greet","hello", "hi"],
+        "end_call": ["end_call","goodbye", "bye"],
+        "handoff": ["handoff","transfer"],
+        "thank": ["thank", "thanks"],
+        "repeat": ["repeat", "again"],
+        "cancel_close_leave_freeze": ["cancel_close_leave_freeze", "cancel", "close"],
+        "change": ["change"],
+        "make_open_apply_setup_get_activate": ["make_open_apply_setup_get_activate", "make", "open", "apply", "setup", "get", "activate"],
+        "request_info": ["request_info", "info", "information"],
+        "how": ["how"],
+        "why": ["why"],
+        "when": ["when"],
+        "how_much": ["how much"],
+        "how_long": ["how long"],
+        "wrong_notworking_notshowing": ["wrong_notworking_notshowing", "wrong", "not working", "not showing"],
+        "lost_stolen": ["lost_stolen", "lost", "stolen"],
+        "more_higher_after": ["more_higher_after", "more", "higher", "after"],
+        "less_lower_before": ["less_lower_before","less", "lower", "before"],
+        "new": ["new"],
+        "existing": ["existing"],
+        "limits": ["limits"],
+        "savings": ["savings"],
+        "current": ["current"],
+        "business": ["business"],
+        "credit": ["credit"],
+        "debit": ["debit"],
+        "contactless": ["contactless"],
+        "international": ["international"],
+        "account": ["account"],
+        "transfer_payment_deposit": ["transfer_payment_deposit", "transfer", "payment", "deposit"],
+        "appointment": ["appointment"],
+        "arrival": ["arrival"],
+        "balance": ["balance"],
+        "card": ["card"],
+        "cheque": ["cheque"],
+        "direct_debit": ["direct_debit"],
+        "standing_order": ["standing_rder"],
+        "fees_interests": ["fees_interests", "fees", "interests"],
+        "loan": ["loan"],
+        "mortgage": ["mortgage"],
+        "overdraft": ["overdraft"],
+        "withdrawal": ["withdrawal"],
+        "pin": ["pin"],
+        "refund": ["refund"],
+        "check_in": ["check_in"],
+        "check_out": ["check_out"],
+        "restaurant": ["restaurant"],
+        "swimming_pool": ["swimming_pool"],
+        "parking": ["parking"],
+        "pets": ["pets"],
+        "accesibility": ["accessibility"],
+        "booking": ["booking"],
+        "wifi": ["wifi"],
+        "gym": ["gym"],
+        "spa": ["spa"],
+        "room_ammenities": ["room_amenities"],
+        "housekeeping": ["housekeeping"],
+        "room_service": ["room_service"]
+    }
+]
