@@ -1,5 +1,5 @@
-Updating
-##   A Prompt Learning Framework with Large Language Model Augmentation for Few-shot Multi-label Intent Detection
+
+#  A Prompt Learning Framework with Large Language Model Augmentation for Few-shot Multi-label Intent Detection
 
 Pytorch implementation of  **PLMA**: A Prompt Learning Framework with Large Language Model Augmentation for Few-shot Multi-label Intent Detection.
 
@@ -12,7 +12,6 @@ Intent detection (ID) is essential in spoken language understanding, especially 
 
 
 ## Model Architecture
-
 ![Overview of the PLMA model architecture](https://github.com/user-attachments/assets/7b029b8a-1503-4589-a9d8-9fdd7fc3e91c)
 
 
