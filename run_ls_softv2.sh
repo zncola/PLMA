@@ -1,4 +1,4 @@
-python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset banking --kfold 10 --batch_size 8 --template_choice 0 --verbalizer_choice 0 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
-python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset banking --kfold 20 --batch_size 8 --template_choice 0 --verbalizer_choice 0 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
-python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset hotels --kfold 10 --batch_size 8 --template_choice 0 --verbalizer_choice 0 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
-python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset hotels --kfold 20 --batch_size 8 --template_choice 0 --verbalizer_choice 0 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
+python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset banking --kfold 10 --batch_size 8 --template_choice 0 --verbalizer_choice 6 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
+python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset banking --kfold 20 --batch_size 8 --template_choice 0 --verbalizer_choice 6 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
+python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset hotels --kfold 10 --batch_size 8 --template_choice 0 --verbalizer_choice 6 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
+python /Work21/2023/zhuangning/code/prompt-gpt/nlutrain_ls_soft2.py --dataset hotels --kfold 20 --batch_size 8 --template_choice 0 --verbalizer_choice 6 --epoch 50 --maxlength 256 --cuda '1' --warmup_step 1000
