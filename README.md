@@ -12,7 +12,8 @@ Intent detection (ID) is essential in spoken language understanding, especially 
 
 
 ## Model Architecture
-![Overview of the PLMA model architecture](https://github.com/user-attachments/assets/7b029b8a-1503-4589-a9d8-9fdd7fc3e91c)
+![Overview of the PLMA model architecture](https://github.com/user-attachments/assets/c9449b93-0026-471e-b532-e98cfdf0e9e4)
+
 
 
 As Fig. 1, we adapt prompt learning as the core framework for SLMs, utilizing LLMs for intent spans extraction and answer space expansion. The LLM-enhanced information is then integrated with the original inputs into the prompt learning model.
