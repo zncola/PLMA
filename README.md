@@ -33,7 +33,7 @@ Other dependencies please refer to `requirements.txt`
 **Indomain Setting**
 
 ```shell
-run run_ls_soft.sh
+bash run_ls_soft.sh
 ```
 
 or
@@ -54,7 +54,7 @@ python nlutrain_ls_soft.py --datapath {the path of dataset}\
 **Cross-domain Setting**
 
 ```shell
-run run_ls_soft_cd.sh
+bash run_ls_soft_cd.sh
 ```
 
 or
