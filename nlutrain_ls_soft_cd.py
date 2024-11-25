@@ -100,7 +100,7 @@ logger.info(f'seed:{seed}, max_length:{max_length}, warmup_steps:{warm_up_step},
 all_labels = ['affirm', 'deny', 'dont_know', 'acknowledge', 'greet', 'end_call', 'handoff', 'thank', \
                 'repeat', 'cancel_close_leave_freeze', 'change', 'make_open_apply_setup_get_activate', 'request_info',\
                  'how', 'why', 'when', 'how_much', 'how_long', 'wrong_notworking_notshowing', 'lost_stolen', \
-                'more_higher_after', 'less_lower_before', 'new', 'existing', 'limits']
+                'more_higher_after', 'less_lower_before', 'new', 'existing', 'limits', 'refund']
 
 processor = NLUProcessorCD()
 # data_dir = '/Work21/2023/zhuangning/code/prompt-gpt/data/banking.csv'
